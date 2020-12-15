@@ -7,16 +7,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "jimi adams"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "jimi adams"
+description              : &description "Associate Professor, CU-Denver"
+url                      : https://jimiadams.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jimiadams/jimiadams.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : jimiadams
 facebook:
   username               :
   app_id                 :
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "jimi adams"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Associate Professor of Health & Behavioral Sciences"
+  location         : "Denver, CO"
+  employer         : "University of Colorado Denver"
+  googlescholar    : "https://scholar.google.com/citations?user=G-u6TvEAAAAJ"
+  orcid            : "http://orcid.org/0000-0001-5043-1149"
+  github           : "jimiadams"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "jimi.adams@ucdenver.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
+  socArXiv         : "https://osf.io/y29ws/"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "jimiadams"
   vine             :
   weibo            :
   xing             :
