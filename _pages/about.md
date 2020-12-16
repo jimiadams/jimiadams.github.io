@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Recent Updates & Upcoming Talks
+recent updates & upcoming talks
 ------
   - **Dec 14**: My piece w/ Ryan Light & Nicholas Theis on scientific mobilization on COVID-19 is [now available](/Contexts_PubMed/) in *Contexts*. This is an update to a preliminary analysis posted previously on [their blog](https://contexts.org/blog/education-under-covid-19/#light).
   - **Dec 4**: My collaborators Ryan Light & Jim Moody have [*The Oxford Handbook of Social Networks*](https://global.oup.com/academic/product/the-oxford-handbook-of-social-networks-9780190251765?cc=us&lang=en&) now out. Along with Tatiane Santos & Venice Williams, we have a chapter on data collection in the volume ([preprint](https://osf.io/preprints/socarxiv/zgawf/)).
@@ -19,3 +19,11 @@ Recent Updates & Upcoming Talks
   - **June 24**: I gave a lecture in the [Michigan Integrative Well-Being and Inequality Training Program](https://sph.umich.edu/mental-physical-health-training/) from our IDEAS project, using network/text analysis of interdisciplinary fields to examine how mental health fits into population health.
   - **June 22**: I published a [review](https://journals.sagepub.com/doi/abs/10.1177/0094306120930218l) of Sean Everton's book on networks & religion in *Contemporary Sociology*.
   - **May 18-22**: I led an SNA workshop through [ICPSR](https://www.icpsr.umich.edu/web/pages/sumprog/) online. 
+
+about me
+------
+I am an Associate Professor in the Department of Health and Behavioral Sciences at the University of Colorado Denver. I recently wrapped up a 3.5-year term as director of our undergraduate programs in Public Health.
+
+Broadly, my research revolves around addressing how networks constrain or promote the diffusion of information and/or diseases through populations. Much of this work has focused on HIV/AIDS among populations in the US and Sub-Saharan Africa. Recently, I have spent more time examining the integrative patterns and processes in problem-focused areas of science that draw from many academic disciplines (e.g., HIV/AIDS, demography, the environment). In addition, I have a primary interest in using social network theory to improve strategies used in the design and implementation of primary data collection projects. Check out my recent book!
+
+Before coming to UCD, I was an Assistant Professor in the Sociology Department and affiliate of the Center on Health, Risk and Society at American University, and an Assistant Professor of Sociology at Arizona State University, where I was affiliated with the Center for Population Dynamics (sadly, now defunct) and the Center for Social Dynamics and Complexity. Before that, I spent two years funded by the Robert Wood Johnson Foundation as a Health and Society Scholar (also since disbanded) at Columbia University, completed my PhD in the Department of Sociology at Ohio State University, and received my BA (Interdisciplinary Studies) from Virginia Tech.
