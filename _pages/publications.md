@@ -1,16 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: "selected articles & chapters"
 permalink: /publications/
 author_profile: true
 ---
+<p>This is an incomplete sample of some of my papers. For a complete list, see my [CV](/cv/), or [Google Scholar page](https://scholar.google.com/citations?user=G-u6TvEAAAAJ). If you have difficulty access a copy of any of these, please email me for a copy.</p>
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% include button.html url="http://www.google.com" %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
