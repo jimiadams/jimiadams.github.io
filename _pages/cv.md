@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 Here is my [current CV](/files/CV.pdf):
-<embed src="/files/sample.pdf" type="application/pdf" />
+<embed src="/files/CV.pdf" type="application/pdf" />
 
