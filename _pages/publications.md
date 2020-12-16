@@ -6,7 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<p>This is an incomplete sample of some of my papers. For a complete list, see my [CV](/cv/), or [Google Scholar page](https://scholar.google.com/citations?user=G-u6TvEAAAAJ). If you have difficulty access a copy of any of these, please email me for a copy.</p>
-
-<button name="button" onclick="http://www.google.com">Click me</button>
-
+This is an incomplete sample of some of my papers. For a complete list, see my [CV](/cv/), or [Google Scholar page](https://scholar.google.com/citations?user=G-u6TvEAAAAJ). If you have difficulty locating a copy of any of these, please email me for a copy.
