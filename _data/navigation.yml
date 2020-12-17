@@ -10,10 +10,7 @@ main:
     url: /book/    
 
   - title: "projects"
-    url: /projects/  
-    sublinks:
-      - title: IDEAS
-        url: /ideas/
+    url: /projects/    
     
   - title: "COVID-19"
     url: /covid/
