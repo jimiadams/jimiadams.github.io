@@ -19,8 +19,8 @@ Since March, I've been working with a [team](https://www.colorado-data.org/meet-
 [Sept 30](https://drive.google.com/file/d/1SK_IQREZ9FGwjJlQePdHCsnz45GmBOzY/view), 
 [Sept 11](https://drive.google.com/file/d/1osVuztn6Z27GJLtTsKrqThJb-lvGQLYP/view) ([press release](https://covid19.colorado.gov/press-release/new-modeling-data-shows-plateauing-hospitalizations-and-a-slight-upward-trend-in)), 
 [August 21](https://coloradosph.cuanschutz.edu/docs/librariesprovider151/default-document-library/20200821_modelingreport.pdf?sfvrsn=f009a4b9_0), 
-[July 16](https://www.ucdenver.edu/docs/librariesprovider151/default-document-library/modeling-report-2020-07-16.pdf?sfvrsn=3922c2b9_2) ([press release](https://coloradosph.cuanschutz.edu/news-and-events/newsroom/covid-19-news/public-health-main-site-news/new-modeling-data-from-the-colorado-school-of-public-health-shows-decline-in-social-distancing-and-increasing-hospitalizations)), 
-[June 1](https://drive.google.com/file/d/1ZCX_mloh0kQS-c9-UdPjqlBRVAovQnJl/view),  
+[July 16](https://www.ucdenver.edu/docs/librariesprovider151/default-document-library/modeling-report-2020-07-16.pdf?sfvrsn=3922c2b9_2) ([press release](https://coloradosph.cuanschutz.edu/news-and-events/newsroom/covid-19-news/public-health-main-site-news/new-modeling-data-from-the-colorado-school-of-public-health-shows-decline-in-social-distancing-and-increasing-hospitalizations)),
+[June 1](https://drive.google.com/file/d/1ZCX_mloh0kQS-c9-UdPjqlBRVAovQnJl/view),
 [May 23](https://covid19.colorado.gov/sites/covid19/files/MayModelingReport_20200523_FINAL.pdf) ([press release](https://covid19.colorado.gov/press-release/state-releases-new-modeling-data-from-colorado-school-of-public-health-scientists)), 
 [April 20](https://covid19.colorado.gov/sites/covid19/files/COVIDModelingReport-042020.pdf) ([press release](https://news.cuanschutz.edu/news-stories/colorado-school-of-public-health-leads-the-charge-in-modeling-the-impact-of-covid-19)).
 - **Regional modeling report**: [Nov 24](https://drive.google.com/file/d/1pOVcwxY6rwEM57vIXVQVogBt2RVpIZ1X/view), [Nov 12](https://coloradosph.cuanschutz.edu/docs/librariesprovider151/default-document-library/coloradoregionalreport_20201112.pdf).
@@ -39,5 +39,5 @@ In addition to that work, I've also written/presented a few pieces trying to pub
 ______
 **Related publications**:
 
-- 2020. Andrea G. Buchwald, jimi adams, David M Bortz, & Elizabeth J. Carlton. “[Infectious disease transmission models to predict, evaluate and improve understanding of SARS-COV-2 trajectory and interventions](https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.202005-501PS).” *Annals of the American Thoracic Society* 17(10): 1204-1206.
-- 2020. jimi adams+, Ryan Light+, & Nicholas Theis. (+ 1st authors contributed equally). "[Mobilizing COVID-19 Science](https://jimiadams.github.io/Contexts_PubMed/)." *Contexts* 19(4):36-41. ([code](https://github.com/jimiadams/Contexts_PubMed))
+- Andrea G. Buchwald, **jimi adams**, David M Bortz, & Elizabeth J. Carlton. 2020. “[Infectious disease transmission models to predict, evaluate and improve understanding of SARS-COV-2 trajectory and interventions](https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.202005-501PS).” *Annals of the American Thoracic Society* 17(10): 1204-1206.
+- **jimi adams**+, Ryan Light+, & Nicholas Theis. (+ 1st authors contributed equally). 2020. "[Mobilizing COVID-19 Science](https://jimiadams.github.io/Contexts_PubMed/)." *Contexts* 19(4):36-41. ([code](https://github.com/jimiadams/Contexts_PubMed))
