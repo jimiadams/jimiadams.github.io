@@ -15,7 +15,7 @@ In this project, I am working with [Ryan Light](https://sociology.uoregon.edu/pr
 
 This project started with a number of publications describing changes in the field of HIV/AIDS research over its first 20 years. Now, building on the methods developed in that case, and the theoretical framework it helped to spawn, we are also furthering the empirical scope of the project to include cases from demography, environmental studies/sciences, religion, population health, and patient navigators. This is evolving into a book project that we aim to have a completed draft of sometime in 2021, the beginnings of that argument are sketched out in [this paper](https://doi.org/10.31235/osf.io/gek68).
 
-Early stages of this project were supported by a seed grant from the Robert Wood Johnson Foundation's [Health and Society Scholars Program](http://www.healthandsocietyscholars.org/) at Columbia University..
+Early stages of this project were supported by a seed grant from the Robert Wood Johnson Foundation's [Health and Society Scholars Program](http://www.healthandsocietyscholars.org/) at Columbia University.
 
 ______
 **Related publications**:
