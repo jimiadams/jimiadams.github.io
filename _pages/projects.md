@@ -24,7 +24,7 @@ _____
 
 What do smoking, HIV/AIDS, hypertension and flu have in common? The possibility of being shaped by one's peers and shaping who we select as friends. I'm primarily interesed in the diffusion/influence part of these processes, but estimating those properly also requires accounting for the selection side of the equation. 
 
-(This work has previously been funded in part by the [National Institutes of Health](https://www.lrp.nih.gov/about_the_programs/health_disparities.aspx), and the Colorado Department of Public Health & Environment.)
+(This work has previously been funded in part by the [National Institutes of Health](https://www.lrp.nih.gov/eligibility-programs#ex-disparities-content), and the Colorado Department of Public Health & Environment.)
 
 <div style="clear:both;"></div>
 _____
