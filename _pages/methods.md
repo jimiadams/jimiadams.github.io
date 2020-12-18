@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "network methods"
-permalink: /projects/methds/
+permalink: /projects/methods/
 author_profile: true
 redirect_from:
   - /resume
