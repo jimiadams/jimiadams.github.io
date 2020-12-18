@@ -25,4 +25,4 @@ ______
   - Ryan Light & **jimi adams**. 2016. "[Knowledge in Motion: The Evolution of HIV/AIDS Research](../files/2016_SciM.pdf)." *Scientometrics* 107(3): 1227-1248.
   - Ryan Light & **jimi adams**. 2016. “[A Dynamic, Multidimensional Approach to Knowledge Production](https://doi.org/10.31235/osf.io/gek68).” Chapter 6 in Scott Frickel, Mathieu Albert & Barbara Prainsack (eds.) *Investigating Interdisciplinary Collaboration: Theory & Practice Across the Disciplines.* Rutgers University Press.
   - **jimi adams** & Ryan Light. 2015. "[Scientific Consensus, the Law, and Same Sex Parenting Outcomes](../files/2015_SSR.pdf)." *Social Science Research* 53: 300-310.
-  - 2014. **jimi adams** & Ryan Light. "[Mapping Interdisciplinary Fields: Efficiencies, Gaps and Redundancies in HIV/AIDS Research](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0115092)." *PLoS One* 9(12): e115092.
+  - **jimi adams** & Ryan Light. 2014. "[Mapping Interdisciplinary Fields: Efficiencies, Gaps and Redundancies in HIV/AIDS Research](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0115092)." *PLoS One* 9(12): e115092.
