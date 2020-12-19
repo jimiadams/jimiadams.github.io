@@ -5,8 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 For office hours, or to sign up for an appointment, please use my [Calendly](https://calendly.com/jimiadams).<br>
-NOTE: I am on sabbatical for the 2020-21 school year and will not be teaching, or taking on any new students for the year.
-Skip to: [undergraduate](#undergraduate)
+NOTE: I am on sabbatical for the 2020-21 school year and will not be teaching, or taking on any new students for the year. <br>
+skip to: [undergraduate](#undergraduate), graduate, workshops, [publications](related) 
+
 _____
 ### Undergraduate
 #### CU-Denver
@@ -29,7 +30,7 @@ While these courses represent some of my teaching interests, further course topi
 
 _____
 
-**Related Publications**: 
+#### Related Publications: 
 
   - **jimi adams**. 2019. *[Gathering Social Network Data](https://us.sagepub.com/en-us/nam/gathering-social-network-data/book260973)*. SAGE-QASS #180.
   - **jimi adams** & David R. Schaefer (equal co-authors). 2018. "[Visualizing Stochastic Actor-Based Model Microsteps](https://journals.sagepub.com/doi/10.1177/2378023118816545)." *Socius* 4:1-3. (code)
