@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "COVID-19"
+title: " "
 permalink: /covid/
 author_profile: true
 redirect_from:
