@@ -10,7 +10,15 @@ main:
     url: /book/    
 
   - title: "projects"
-    url: /projects/    
+    url: /projects/
+    sub:
+      - title: "IDEAS"
+        href: "/projects/ideas/"
+      - title: "diffusion"
+        href: "/projects/diffusion/"
+      - title: "network methods"
+        href: "/projects/methods/"
+
     
   - title: "COVID-19"
     url: /covid/
