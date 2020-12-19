@@ -5,10 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 For office hours, or to sign up for an appointment, please use my [Calendly](https://calendly.com/jimiadams).<br>
-(skip to: students | [undergraduate](#undergraduate) | [graduate](#graduate) | workshops | [publications](#related-publications))
+(skip to: students | [undergraduate](#undergraduate) | [graduate](#graduate) | [workshops](#workshops) | [publications](#related-publications))
 
 ### Current
-NOTE: I am on sabbatical for the 2020-21 school year and will not be teaching, or taking on any new students for the year. <br/>
+NOTE: I am on sabbatical for the 2020-21 school year and will not be teaching or taking on any new students for the year. <br/>
 
 _____
 ### Undergraduate
@@ -49,6 +49,9 @@ _____
 _____
 ### Workshops
 #### Social Network Analysis
+  - [**ICPSR**](https://www.icpsr.umich.edu/web/pages/sumprog/index.html) - Hosted by the University of Michigan, this summer "stats camp" draws a range of graduate students, post docs, faculty, and others from across the social sciences who are interested advancing their methods chops. [*Syllabus*](../files/ICPSR_SNA_Syllabus.pdf): 2020 (online), 2019, 2017 (Boulder), 2016 (Ann Arbor)
+  - **EPIC**(https://www.publichealth.columbia.edu/research/episummercolumbia) - Hosted by Columbia University, this summer workshop series draws a range of public health scholars and professionals from across the globe who are interested in learning new methods. [*Syllabus*](../files/EPIC_SNA_Syllabus.pdf): 2017, 2016, 2015, 2014, 2013
+  - **UT-MB** - I conducted a 2-day version (no labs) of these workshops for the department of Preventative Medicine & Community Health at University of Texas, Medical Branch.
 _____
 While these courses represent some of my teaching interests, further course topics i am interested in include, Organizations, Sociology of Religion, Science of Science, global HIV/AIDS, and likely a few others I'm not thinking of as courses at the moment. If you are a student interested in these topics, or an instructor who may want to explore collaborative teaching, let me know.
 _____
