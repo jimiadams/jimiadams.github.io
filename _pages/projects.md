@@ -18,7 +18,7 @@ With [Ryan Light](https://sociology.uoregon.edu/profile/light/), I am examining 
 <div style="clear:both;"></div>
 _____
 
-### Diffusion Processes: Social Network Influences on Health Behaviors & Outcomes
+### [Diffusion Processes: Social Network Influences on Health Behaviors & Outcomes](/projects/diffusion/)
 <img src="../images/JHSB_4by4.png" width="200px" align="left" />
 
 What do smoking, HIV/AIDS, hypertension and flu have in common? The possibility of being shaped by one's peers and shaping who we select as friends. I'm primarily interesed in the diffusion/influence part of these processes, but estimating those properly also requires accounting for the selection side of the equation. 
@@ -27,7 +27,7 @@ What do smoking, HIV/AIDS, hypertension and flu have in common? The possibility 
 
 <div style="clear:both;"></div>
 _____
-### Network Methods: Evaluating & Improving Social Network Data Collection Methods
+### [Network Methods: Evaluating & Improving Social Network Data Collection Methods](/projects/methods/)
 <img src="../images/FM_sample.png" width="200px" align="right" />
 
 Development of network theory and analytic strategies have occasionally outpaced the availability of data. I'm interested in altering that, and evaluating the quality of such efforts.
