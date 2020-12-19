@@ -5,8 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 For office hours, or to sign up for an appointment, please use my [Calendly](https://calendly.com/jimiadams).<br>
-NOTE: I am on sabbatical for the 2020-21 school year and will not be teaching, or taking on any new students for the year. <br>
 (skip to: [undergraduate](#undergraduate), graduate, workshops, [publications](#"related publication"))
+
+### Current
+NOTE: I am on sabbatical for the 2020-21 school year and will not be teaching, or taking on any new students for the year. <br/>
 
 _____
 ### Undergraduate
