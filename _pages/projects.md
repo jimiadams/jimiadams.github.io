@@ -8,7 +8,7 @@ redirect_from:
 ---
 _____
 
-### [IDEAS: Interdisciplinary Dynamics in Emerging Areas of Science](/ideas/)
+### [IDEAS: Interdisciplinary Dynamics in Emerging Areas of Science](/projects/ideas/)
 <img src="../images/PO_alluvial.png" width="200px" align="right" />
 
 With [Ryan Light](https://sociology.uoregon.edu/profile/light/), I am examining patterns of disciplinary integration in "problem" oriented areas of science. My primary sabbatical project is working on a book manuscript from this work.
