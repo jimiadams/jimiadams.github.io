@@ -7,11 +7,13 @@ author_profile: true
 
 NOTE: I am on sabbatical for the 2020-21 school year and will not be teaching, or taking on any new students for the year.
 
-{% include base_path %}
+### CU-Denver
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+  - PBHL 4040, **Social Determinants of Health** - This senior-level course serves as the theoretical core of our undergraduate Public Health major, focusing on multiple  bases of population health inequalities.
+    - [2020S](../files/2020S_PBHL4040_syllabus.pdf), 
+    [2017S](../files/2017S_PBHL4040_syllabus.pdf),
+    [2016S](../files/2016S_PBHL4040_syllabus.pdf)
+  - PBHL 4099, **Capstone Experience in Public Health**
 
 While these courses represent some of my teaching interests, further course topics i am interested in include, Organizations, Sociology of Religion, Science of Science, global HIV/AIDS, and likely a few others I'm not thinking of as courses at the moment. If you are a student interested in these topics, or an instructor who may want to explore collaborative teaching, let me know.
 
