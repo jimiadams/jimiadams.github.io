@@ -5,10 +5,22 @@ permalink: /teaching/
 author_profile: true
 ---
 For office hours, or to sign up for an appointment, please use my [Calendly](https://calendly.com/jimiadams).<br>
-(skip to: students | [undergraduate](#undergraduate) | [graduate](#graduate) | [workshops](#workshops) | [publications](#related-publications))
+( skip to: students | [undergraduate](#undergraduate) | [graduate](#graduate) | [workshops](#workshops) | [publications](#related-publications) )
 
 ### Current
 NOTE: I am on sabbatical for the 2020-21 school year and will not be teaching or taking on any new students for the year. <br/>
+
+_____
+### Students
+Outside of committees, etc., here are a few current students, postdocs, and recent graduates I've had the opportunity to work with on papers.
+
+  - Kate Fitch
+  - Joshua Goode
+  - Nicholas Landry
+  - Tatiane Santos
+  - Venice Ng Williams
+
+Some statement about letter writing?
 
 _____
 ### Undergraduate
@@ -23,11 +35,11 @@ _____
 #### American University
   - SOCY 100, **US Society** - Our intro course was split into two options; this was the version focused on the US. [*Syllabus*](../files/2014S_SOCY100_syllabus.pdf): 2014S
   - SOCY 110, **Views from the Global South** - Our intro course was split into two options; this was the version that's more globally focused. [*Syllabus*](../files/2013F_SOCY110_syllabus.pdf): 2013F
-  - SOCY 320, **Intro to Social Research** - This was the primary research methods course for sociology majors. [*Syllabus*](../files/2013S_SOCY320_syllabus.pdf): 2013F, 2013S, 2012F
+  - SOCY 320, **Intro to Social Research** - This was the primary research methods course for sociology majors. [*Syllabus*](../files/2013F_SOCY320_syllabus.pdf): 2013F, 2013S, 2012F
   - HNRS 302, **Intro to Social Networks** This honors seminar was an introduction to the key concepts of social networks research. [*Syllabus*](../files/2012F_HNRS302_syllabus.pdf): 2012F
 
 #### Arizona State University
-  - SOC 101H, **Honors Intro Sociology** - These honors sections of intro to sociology were taught seminar style from primary monographs. *Syllabi*: [2011F](../files/2011F_SOC101_syllabus.pdf), [2010F](../files/2011F_SOC101_syllabus.pdf)
+  - SOC 101H, **Honors Intro Sociology** - These honors sections of intro to sociology were organized seminar style from primary monographs. *Syllabi*: [2011F](../files/2011F_SOC101_syllabus.pdf), [2010F](../files/2011F_SOC101_syllabus.pdf)
   - SOC/FAS 294, **Intro to Social Networks** - This was a larger, lecture-based version of an introduction to the key ideas in social network scholarship. [Syllabus](../files/2011F_SOC294_syllabus.pdf): 2011F, 2010S, 2009F
   
 _____
@@ -52,6 +64,7 @@ _____
   - [**ICPSR**](https://www.icpsr.umich.edu/web/pages/sumprog/index.html) - Hosted by the University of Michigan, this summer "stats camp" draws a range of graduate students, post docs, faculty, and others from across the social sciences who are interested advancing their methods chops. [*Syllabus*](../files/ICPSR_SNA_Syllabus.pdf): 2020 (online), 2019, 2017 (Boulder), 2016 (Ann Arbor)
   - [**EPIC**](https://www.publichealth.columbia.edu/research/episummercolumbia) - Hosted by Columbia University, this summer workshop series draws a range of public health scholars and professionals from across the globe who are interested in learning new methods. [*Syllabus*](../files/EPIC_SNA_Syllabus.pdf): 2017, 2016, 2015, 2014, 2013
   - **UT-MB** - I conducted a 2-day version (no labs) of these workshops for the department of Preventative Medicine & Community Health at University of Texas, Medical Branch.
+  
 _____
 While these courses represent some of my teaching interests, further course topics i am interested in include, Organizations, Sociology of Religion, Science of Science, global HIV/AIDS, and likely a few others I'm not thinking of as courses at the moment. If you are a student interested in these topics, or an instructor who may want to explore collaborative teaching, let me know.
 
