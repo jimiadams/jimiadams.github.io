@@ -6,9 +6,8 @@ author_profile: true
 ---
 For office hours, or to sign up for an appointment, please use my [Calendly](https://calendly.com/jimiadams).<br>
 NOTE: I am on sabbatical for the 2020-21 school year and will not be teaching, or taking on any new students for the year.
-
+Skip to: [undergraduate](#undergraduate)
 _____
-
 ### Undergraduate
 #### CU-Denver
   - PBHL 3999, **Diffusion: How Things Spread** - This elective explores how diseases and behaviors spread through a population. My first time offering it happened to coincide with the onset of the COVID-19 pandemic. [*Syllabus*](../files/2020S_PBHL3999_syllabus.pdf): 2020S.
