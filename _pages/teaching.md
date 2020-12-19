@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 For office hours, or to sign up for an appointment, please use my [Calendly](https://calendly.com/jimiadams).<br>
-(skip to: students | [undergraduate](#undergraduate) | graduate | workshops | [publications](#related publications))
+(skip to: students | [undergraduate](#undergraduate) | graduate | workshops | [publications](#related-publications))
 
 ### Current
 NOTE: I am on sabbatical for the 2020-21 school year and will not be teaching, or taking on any new students for the year. <br/>
@@ -21,8 +21,15 @@ _____
   - PBHL 4099, **Capstone Experience in Public Health** - This is a problem-based, student led capstone for out Public Health majors. [*Syllabus*](../files/2019S_PBHL4099_syllabus.pdf): 2019S, 2017F, 2016S, 2014F.
 
 #### American University
-  - SOCY 320, **Intro to Social Research** - This was the primary research methods course for sociology majors. [*Syllabus*](../files/2013S_SOCY320_syllabus.pdf): 2013F, 2013S, 2012F 
+  - SOCY 100, **US Society** - Our intro course was split into two options; this was the version focused on the US. [*Syllabus*](../files/2014S_SOCY100_syllabus.pdf): 2013F
+  - SOCY 110, **Views from the Global South** - Our intro course was split into two options; this was the version that's more globally focused. [*Syllabus*](../files/2013F_SOCY110_syllabus.pdf): 2013F
+  - SOCY 320, **Intro to Social Research** - This was the primary research methods course for sociology majors. [*Syllabus*](../files/2013S_SOCY320_syllabus.pdf): 2013F, 2013S, 2012F
+  - HNRS 302, **Intro to Social Networks** This honors seminar was an introduction to the key concepts of social networks research. [*Syllabus*](../files/2012F_HNRS302_syllabus.pdf): 2012F
 
+#### Arizona State University
+  - SOC 101H, **Honors Intro Sociology** - These honors sections of intro to sociology were taught seminar style from primary monographs. [*Syllabi*]: [2011F](../files/2011F_SOC101_syllabus.pdf), [2010F](../files/2011F_SOC101_syllabus.pdf)
+  - SOCY 294, **Intro to Social Networks** - This was a larger, lecture-based version of an introduction to the key ideas in social network scholarship. [Syllabus](../files/2011F_SOC294_syllabus.pdf):
+  
 _____
 ### Graduate
 #### CU-Denver
