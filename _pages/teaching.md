@@ -20,6 +20,9 @@ _____
     [2016S](../files/2016S_PBHL4040_syllabus.pdf)
   - PBHL 4099, **Capstone Experience in Public Health** - This is a problem-based, student led capstone for out Public Health majors. [*Syllabus*](../files/2019S_PBHL4099_syllabus.pdf): 2019S, 2017F, 2016S, 2014F.
 
+#### American University
+  - SOCY 
+
 _____
 ### Graduate
 #### CU-Denver
@@ -32,7 +35,7 @@ While these courses represent some of my teaching interests, further course topi
 
 _____
 
-#### Related Publications
+### Related Publications
 
   - **jimi adams**. 2019. *[Gathering Social Network Data](https://us.sagepub.com/en-us/nam/gathering-social-network-data/book260973)*. SAGE-QASS #180.
   - **jimi adams** & David R. Schaefer (equal co-authors). 2018. "[Visualizing Stochastic Actor-Based Model Microsteps](https://journals.sagepub.com/doi/10.1177/2378023118816545)." *Socius* 4:1-3. (code)
