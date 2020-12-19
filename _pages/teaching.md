@@ -27,8 +27,8 @@ _____
   - HNRS 302, **Intro to Social Networks** This honors seminar was an introduction to the key concepts of social networks research. [*Syllabus*](../files/2012F_HNRS302_syllabus.pdf): 2012F
 
 #### Arizona State University
-  - SOC 101H, **Honors Intro Sociology** - These honors sections of intro to sociology were taught seminar style from primary monographs. [*Syllabi*]: [2011F](../files/2011F_SOC101_syllabus.pdf), [2010F](../files/2011F_SOC101_syllabus.pdf)
-  - SOCY 294, **Intro to Social Networks** - This was a larger, lecture-based version of an introduction to the key ideas in social network scholarship. [Syllabus](../files/2011F_SOC294_syllabus.pdf):
+  - SOC 101H, **Honors Intro Sociology** - These honors sections of intro to sociology were taught seminar style from primary monographs. *Syllabi*: [2011F](../files/2011F_SOC101_syllabus.pdf), [2010F](../files/2011F_SOC101_syllabus.pdf)
+  - SOCY 294, **Intro to Social Networks** - This was a larger, lecture-based version of an introduction to the key ideas in social network scholarship. [Syllabus](../files/2011F_SOC294_syllabus.pdf): 2011F, 2010S, 2009F
   
 _____
 ### Graduate
