@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 For office hours, or to sign up for an appointment, please use my [Calendly](https://calendly.com/jimiadams).<br>
-(skip to: students | [undergraduate](#undergraduate) | graduate | workshops | [publications](#related%20publications))
+(skip to: students | [undergraduate](#undergraduate) | graduate | workshops | [publications](#related publications))
 
 ### Current
 NOTE: I am on sabbatical for the 2020-21 school year and will not be teaching, or taking on any new students for the year. <br/>
@@ -21,7 +21,7 @@ _____
   - PBHL 4099, **Capstone Experience in Public Health** - This is a problem-based, student led capstone for out Public Health majors. [*Syllabus*](../files/2019S_PBHL4099_syllabus.pdf): 2019S, 2017F, 2016S, 2014F.
 
 #### American University
-  - SOCY 
+  - SOCY 320, **Intro to Social Research** - This was the primary research methods course for sociology majors. [*Syllabus*](../files/2013S_SOCY320_syllabus.pdf): 2013F, 2013S, 2012F 
 
 _____
 ### Graduate
