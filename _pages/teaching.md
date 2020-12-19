@@ -12,15 +12,6 @@ NOTE: I am on sabbatical for the 2020-21 school year and will not be teaching or
 
 _____
 ### Students
-Outside of committees, etc., here are a few current students, postdocs, and recent graduates I've had the opportunity to work with on papers.
-
-  - Kate Fitch
-  - Joshua Goode
-  - Nicholas Landry
-  - Tatiane Santos
-  - Venice Ng Williams
-
-Some statement about letter writing?
 
 _____
 ### Undergraduate
@@ -39,7 +30,7 @@ _____
   - HNRS 302, **Intro to Social Networks** This honors seminar was an introduction to the key concepts of social networks research. [*Syllabus*](../files/2012F_HNRS302_syllabus.pdf): 2012F
 
 #### Arizona State University
-  - SOC 101H, **Honors Intro Sociology** - These honors sections of intro to sociology were organized seminar style from primary monographs. *Syllabi*: [2011F](../files/2011F_SOC101_syllabus.pdf), [2010F](../files/2011F_SOC101_syllabus.pdf)
+  - SOC 101H, **Honors Intro Sociology** - These honors sections of intro to sociology were organized seminar style from primary monographs. *Syllabi*: [2011F](../files/2011F_SOC101_syllabus.pdf), [2010F](../files/2010F_SOC101_syllabus.pdf)
   - SOC/FAS 294, **Intro to Social Networks** - This was a larger, lecture-based version of an introduction to the key ideas in social network scholarship. [Syllabus](../files/2011F_SOC294_syllabus.pdf): 2011F, 2010S, 2009F
   
 _____
