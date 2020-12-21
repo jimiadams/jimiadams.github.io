@@ -11,6 +11,7 @@ redirect_from:
 Since March, I've been working with a [team](https://www.colorado-data.org/meet-the-team) modeling various aspects of SARS-COV-2 spread and other elements of COVID-19 response for the state of Colorado. I'm collecting those updates together here:
 
 - **Epidemiological modeling report & updates**: 
+[Dec 16](https://coloradosph.cuanschutz.edu/docs/librariesprovider151/default-document-library/co-modeling-report-12_16_2020_final.pdf?sfvrsn=3988fb9_0), 
 [Dec 4](https://drive.google.com/file/d/1yuulQ_WZ-prhShQOd9viAEAu0-0HOzvr/view) (w/ CDPHE [press release](https://covid19.colorado.gov/press-release/state-releases-latest-modeling-report)), 
 [Nov 20](https://drive.google.com/file/d/1fYaOVQwxxWRrDT8nIaqH92cvy3OXt6If/view) ([press release](https://covid19.colorado.gov/press-release/newest-covid-19-model-estimates-1-in-49-coloradans-are-currently-infectious)), 
 [Nov 4](https://drive.google.com/file/d/1eJLNR0JCQEE8asieRJL8tXB8me_OSRue/view) ([press release](https://covid19.colorado.gov/press-release/newest-covid-19-model-indicates-colorado-hospitalizations-are-increasing-more-sharply)),
@@ -23,7 +24,7 @@ Since March, I've been working with a [team](https://www.colorado-data.org/meet-
 [June 1](https://drive.google.com/file/d/1ZCX_mloh0kQS-c9-UdPjqlBRVAovQnJl/view),
 [May 23](https://covid19.colorado.gov/sites/covid19/files/MayModelingReport_20200523_FINAL.pdf) ([press release](https://covid19.colorado.gov/press-release/state-releases-new-modeling-data-from-colorado-school-of-public-health-scientists)), 
 [April 20](https://covid19.colorado.gov/sites/covid19/files/COVIDModelingReport-042020.pdf) ([press release](https://news.cuanschutz.edu/news-stories/colorado-school-of-public-health-leads-the-charge-in-modeling-the-impact-of-covid-19)).
-- **Regional modeling report**: [Dec 16](https://agb85.github.io/covid-19/Regional%20Report_20201216.html)[Nov 24](https://drive.google.com/file/d/1pOVcwxY6rwEM57vIXVQVogBt2RVpIZ1X/view), [Nov 12](https://coloradosph.cuanschutz.edu/docs/librariesprovider151/default-document-library/coloradoregionalreport_20201112.pdf).
+- **Regional modeling report**: [Dec 16](https://agb85.github.io/covid-19/Regional%20Report_20201216.html), [Nov 24](https://drive.google.com/file/d/1pOVcwxY6rwEM57vIXVQVogBt2RVpIZ1X/view), [Nov 12](https://coloradosph.cuanschutz.edu/docs/librariesprovider151/default-document-library/coloradoregionalreport_20201112.pdf).
 - **Population mixing & administrative boundaries report**: [July 6](https://coloradosph.cuanschutz.edu/docs/librariesprovider151/default-document-library/mobility_admin_boundary_comparison.pdf?sfvrsn=de9cc7b9_0).
 - **Mobility report**:  [May 14](https://coloradosph.cuanschutz.edu/docs/librariesprovider151/default-document-library/mobility-report_final.pdf?sfvrsn=3b76f3b9_0) ([press release](https://coloradosph.cuanschutz.edu/news-and-events/newsroom/covid-19-news/public-health-main-site-news/cell-phone-data-helps-track-mobility-patterns-during-social-distancing)).
 
