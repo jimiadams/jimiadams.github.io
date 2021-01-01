@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### Colorado COVID-19 Modeling Team
-Since March, I've been working with a [team](https://www.colorado-data.org/meet-the-team) modeling various aspects of SARS-COV-2 spread and other elements of COVID-19 response for the state of Colorado. I'm collecting those updates together here:
+March through December, I was working with a [team](https://www.colorado-data.org/meet-the-team) modeling various aspects of SARS-COV-2 spread and other elements of COVID-19 response for the state of Colorado. I'm collecting those updates together here:
 
 - **Epidemiological modeling report & updates**: 
 [Dec 16](https://coloradosph.cuanschutz.edu/docs/librariesprovider151/default-document-library/co-modeling-report-12_16_2020_final.pdf?sfvrsn=3988fb9_0), 
