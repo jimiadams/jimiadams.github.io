@@ -60,6 +60,6 @@ _____
 ### Related Publications
 
   - **jimi adams**. 2019. *[Gathering Social Network Data](https://us.sagepub.com/en-us/nam/gathering-social-network-data/book260973)*. SAGE-QASS #180.
-  - **jimi adams** & David R. Schaefer (equal co-authors). 2018. "[Visualizing Stochastic Actor-Based Model Microsteps](https://journals.sagepub.com/doi/10.1177/2378023118816545)." *Socius* 4:1-3. (code)
-  - **jimi adams**. 2015. "[Using Lord of the Flies to Teach Social Networks](https://www.exeley.com/journal_of_social_structure/doi/10.21307/joss-2019-017)." *Journal of Social Structure* 16(7):1-21. (data)
-  - **jimi adams**. 2015. "[Glee's McKinley High: Following Middle America's Sexual Taboos](../files/2015_NS.pdf)." *Network Science* 3(2): 293-295. (data)
+  - **jimi adams** & David R. Schaefer (equal co-authors). 2018. "[Visualizing Stochastic Actor-Based Model Microsteps](https://journals.sagepub.com/doi/10.1177/2378023118816545)." *Socius* 4:1-3. ([code](https://github.com/jimiadams/SABM-VIz))
+  - **jimi adams**. 2015. "[Using Lord of the Flies to Teach Social Networks](https://www.exeley.com/journal_of_social_structure/doi/10.21307/joss-2019-017)." *Journal of Social Structure* 16(7):1-21. ([data](https://osf.io/d6yx5/))
+  - **jimi adams**. 2015. "[Glee's McKinley High: Following Middle America's Sexual Taboos](../files/2015_NS.pdf)." *Network Science* 3(2): 293-295. ([data](https://osf.io/879pn/))
