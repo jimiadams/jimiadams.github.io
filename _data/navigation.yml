@@ -6,8 +6,8 @@ main:
   - title: "publications"
     url: /publications/
 
-  - title: "book"
-    url: /book/    
+  - title: "books"
+    url: /books/    
 
   - title: "projects"
     url: /projects/
