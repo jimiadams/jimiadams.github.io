@@ -10,6 +10,7 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
+  - **Feb 9**: Our next book (w/ Ryan Light) is under contract w/ Columbia University Press!
   - **Dec 14**: My piece w/ Ryan Light & Nicholas Theis on scientific mobilization on COVID-19 is [now available](/Contexts_PubMed/) in *Contexts*. This is an update to a preliminary analysis posted previously on [their blog](https://contexts.org/blog/education-under-covid-19/#light).
   - **Dec 4**: My collaborators Ryan Light & Jim Moody have [*The Oxford Handbook of Social Networks*](https://global.oup.com/academic/product/the-oxford-handbook-of-social-networks-9780190251765?cc=us&lang=en&) now out. Along with Tatiane Santos & Venice Williams, we have a chapter on data collection in the volume ([preprint](https://osf.io/preprints/socarxiv/zgawf/)).
   - **Nov 9**: We (along w/ Elizabeth Lawrence, Joshua Goode, David Schaefer, and Stefanie Mollborn) posted a version of [our paper](https://osf.io/preprints/socarxiv/xnd39/) on the network influence & homophilous selection of "health lifestyles" to SocArXiv.
