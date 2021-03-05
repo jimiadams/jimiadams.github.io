@@ -28,8 +28,11 @@ March through December, I was working with a [team](https://www.colorado-data.or
 - **Population mixing & administrative boundaries report**: [July 6](https://coloradosph.cuanschutz.edu/docs/librariesprovider151/default-document-library/mobility_admin_boundary_comparison.pdf?sfvrsn=de9cc7b9_0).
 - **Mobility report**:  [May 14](https://coloradosph.cuanschutz.edu/docs/librariesprovider151/default-document-library/mobility-report_final.pdf?sfvrsn=3b76f3b9_0) ([press release](https://coloradosph.cuanschutz.edu/news-and-events/newsroom/covid-19-news/public-health-main-site-news/cell-phone-data-helps-track-mobility-patterns-during-social-distancing)).
 
+### INSNA Satellite Conference
+Along with [David Lazer](https://cssh.northeastern.edu/faculty/david-lazer/), I organized a satellite conference alongside the annual INSNA (social network) meetings, which ran online July 20-22. About half of the talks are available linked from the [conference program](https://www.insna.org/covid-19-satellite-of-sunbelt).
+
 ### Science Communication
-In addition to that work, I've also written/presented a few pieces trying to publicly translate relevant elements of the pandemic:
+In addition to those larger projects, I also written/presented a few pieces trying to publicly translate relevant elements of the pandemic:
 
 - On [misperceptions about modeling](https://medium.com/@jimi.adams/projections-vs-predictions-redux-3d75eca07f4b), Sept 1 at *Medium*.
 - On [misinformation](https://www.youtube.com/watch?v=xfTsD9pjRmg), June 15 in a CU-Denver open Course.
