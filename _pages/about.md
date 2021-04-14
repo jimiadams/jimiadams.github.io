@@ -12,6 +12,7 @@ recent updates & upcoming talks
 ------
   - **Jun 7**: I'll be giving a talk (from joint work w/ Nicholas Landry) in the Epidemiology [colloquium series](https://coloradosph.cuanschutz.edu/news-and-events/events/event-listing/2021/06/07/default-calendar/epi-seminar-series-network-diffusion) at CSPH.
   - **Apr 21**: I'll be presenting joint work (w/ Joshua Goode, Liz Lawrence, David Schaefer & Stef Mollborn) to the Network Analysis Working Group in the Biostats & Informatics Department at CU-Anschutz.
+  - **Apr 14**: My [review](https://www.journals.uchicago.edu/doi/abs/10.1086/712889?journalCode=ajs) of Adam Kucharski's book *The Rules of Contagion* is out in the *American Journal of Sociology*.
   - **Feb 9**: Our next book (w/ Ryan Light) is under contract w/ Columbia University Press!
   - **Dec 14**: My piece w/ Ryan Light & Nicholas Theis on scientific mobilization on COVID-19 is [now available](/Contexts_PubMed/) in *Contexts*. This is an update to a preliminary analysis posted previously on [their blog](https://contexts.org/blog/education-under-covid-19/#light).
   - **Dec 4**: My collaborators Ryan Light & Jim Moody have [*The Oxford Handbook of Social Networks*](https://global.oup.com/academic/product/the-oxford-handbook-of-social-networks-9780190251765?cc=us&lang=en&) now out. Along with Tatiane Santos & Venice Williams, we have a chapter on data collection in the volume ([preprint](https://osf.io/preprints/socarxiv/zgawf/)).
