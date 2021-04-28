@@ -10,7 +10,7 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
-  - **Jun 7**: I'll be giving a talk (from joint work w/ Nicholas Landry) in the Epidemiology [colloquium series](https://coloradosph.cuanschutz.edu/news-and-events/events/event-listing/2021/06/07/default-calendar/epi-seminar-series-network-diffusion) at CSPH.
+  - **Jun 7**: I'll be giving a talk (from joint work w/ Nicholas Landry) in the Epidemiology [colloquium series](https://calendar.cuanschutz.edu/event/epi_seminar_series_detecting_responding_to_and_preventing_infectious_diseases_and_outbreaks_in_national_parks_1037?utm_campaign=widget&utm_medium=widget&utm_source=University+of+Colorado+Anschutz+Medical+Campus) at CSPH.
   - **Apr 21**: I'll be presenting joint work (w/ Joshua Goode, Liz Lawrence, David Schaefer & Stef Mollborn) to the Network Analysis Working Group in the Biostats & Informatics Department at CU-Anschutz.
   - **Apr 14**: My [review](https://www.journals.uchicago.edu/doi/abs/10.1086/712889?journalCode=ajs) of Adam Kucharski's book *The Rules of Contagion* is out in the *American Journal of Sociology*.
   - **Feb 9**: Our next book (w/ Ryan Light) is under contract w/ Columbia University Press!
