@@ -10,7 +10,7 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
-  - **Jul 5-10**: The Sunbelt and NetSci meetings are combined this year! Presentations of work I'm involved in:
+  - **Jul 5-10**: The Sunbelt and NetSci meetings are [combined](https://networks2021.net) this year! Presentations of work I'm involved in:
     - Jul 5 - Jeffrey Smith will be presenting a paper (w/ Robin Gauthier, Kelly Markowski, & Sela Harcey) estimating how network clustering alters vaccine efficacy.
     - Jul 6 - Nicholas Landry will be presenting a simulation-based paper demonstrating how uniplex data under-represents multiplex diffusion processes.
     - Jul 7 - I'll be presenting a paper (w/ Chris Marcum & Molly Copeland) using PROSPER data on whether teens avoid dating their friends' exes.
