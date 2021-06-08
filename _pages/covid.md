@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+### INSNA Satellite Conference
+Along with [David Lazer](https://cssh.northeastern.edu/faculty/david-lazer/), I organized a satellite conference alongside the annual INSNA (social network) meetings, which ran online July 20-22. About half of the talks are available linked from the [conference program](https://www.insna.org/covid-19-satellite-of-sunbelt).
+
 ### Colorado COVID-19 Modeling Team
 March through December, I was working with a [team](https://www.colorado-data.org/meet-the-team) modeling various aspects of SARS-COV-2 spread and other elements of COVID-19 response for the state of Colorado. I'm collecting those updates together here:
 
@@ -28,9 +31,6 @@ March through December, I was working with a [team](https://www.colorado-data.or
 - **Population mixing & administrative boundaries report**: [July 6](https://coloradosph.cuanschutz.edu/docs/librariesprovider151/default-document-library/mobility_admin_boundary_comparison.pdf?sfvrsn=de9cc7b9_0).
 - **Mobility report**:  [May 14](https://coloradosph.cuanschutz.edu/docs/librariesprovider151/default-document-library/mobility-report_final.pdf?sfvrsn=3b76f3b9_0) ([press release](https://coloradosph.cuanschutz.edu/news-and-events/newsroom/covid-19-news/public-health-main-site-news/cell-phone-data-helps-track-mobility-patterns-during-social-distancing)).
 
-### INSNA Satellite Conference
-Along with [David Lazer](https://cssh.northeastern.edu/faculty/david-lazer/), I organized a satellite conference alongside the annual INSNA (social network) meetings, which ran online July 20-22. About half of the talks are available linked from the [conference program](https://www.insna.org/covid-19-satellite-of-sunbelt).
-
 ### Science Communication
 In addition to those larger projects, I also written/presented a few pieces trying to publicly translate relevant elements of the pandemic:
 
@@ -43,5 +43,6 @@ In addition to those larger projects, I also written/presented a few pieces tryi
 ______
 **Related publications**:
 
-- Andrea G. Buchwald, **jimi adams**, David M Bortz, & Elizabeth J. Carlton. 2020. “[Infectious disease transmission models to predict, evaluate and improve understanding of SARS-COV-2 trajectory and interventions](https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.202005-501PS).” *Annals of the American Thoracic Society* 17(10): 1204-1206.
+- Andrea Buchwald, Jude Bayham, **jimi adams**, David Bortz, Katie Colborn, Olivia Zarella, Meghan Buran, Jonathan Samet, Debashis Ghosh, Rachel Herlihy, & Elizabeth J. Carlton. 2021. "[Estimating the Impact of State-Wide Policies to Reduce Spread of Severe Acute Respiratory Syndrome Coronavirus 2 in Real Time](https://doi.org/10.3201/eid2709.204167)"" *Emerging Infectious Diseases* 27(9).
+- Andrea G. Buchwald, **jimi adams**, David M Bortz, & Elizabeth J. Carlton. 2020. "[Infectious disease transmission models to predict, evaluate and improve understanding of SARS-COV-2 trajectory and interventions](https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.202005-501PS)."" *Annals of the American Thoracic Society* 17(10): 1204-1206.
 - **jimi adams**+, Ryan Light+, & Nicholas Theis. (+ 1st authors contributed equally). 2020. "[Mobilizing COVID-19 Science](https://jimiadams.github.io/Contexts_PubMed/)." *Contexts* 19(4):36-41. ([code](https://github.com/jimiadams/Contexts_PubMed))
