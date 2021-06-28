@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-This is an incomplete sample of recent and/or key papers of mine. For a complete list, see my [CV](/cv/), or [Google Scholar page](https://scholar.google.com/citations?user=G-u6TvEAAAAJ). If you have difficulty locating a complete version of any of these, please email me for a copy.
+This is an incomplete sample of recent and/or key papers of mine. For a complete list, see my [CV](/cv/) or [Google Scholar page](https://scholar.google.com/citations?user=G-u6TvEAAAAJ). If you have difficulty locating a complete version of any of these, please email me for a copy.
 
 | <!-- -->    | <!-- --> |
 | :-: | :------------ |
