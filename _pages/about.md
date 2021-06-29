@@ -10,10 +10,10 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
-  - **Jul 5-10**: The Sunbelt and NetSci meetings are [combined](https://networks2021.net) this year! Presentations of work I'm involved in:
-    - Jul 5 - Jeffrey Smith will be presenting a paper (w/ Robin Gauthier, Kelly Markowski, & Sela Harcey) estimating how network clustering alters vaccine efficacy.
-    - Jul 6 - Nicholas Landry will be presenting a simulation-based paper demonstrating how uniplex data under-represents multiplex diffusion processes.
-    - Jul 7 - I'll be presenting a paper (w/ Chris Marcum & Molly Copeland) using PROSPER data on whether teens avoid dating their friends' exes.
+  - **Jul 5-10**: The Sunbelt and NetSci meetings are [combined](https://networks2021.net) this year! Presentations of work I'm involved in (links require registration):
+    - Jul 5 - Jeffrey Smith will be presenting a paper (w/ Robin Gauthier, Kelly Markowski, & Sela Harcey) estimating how network clustering alters vaccine efficacy ([link](https://whova.com/portal/webapp/njcn_202106/Agenda/1734697)).
+    - Jul 6 - Nicholas Landry will be presenting a simulation-based paper demonstrating how uniplex data under-represents multiplex diffusion processes ([link](https://whova.com/portal/webapp/njcn_202106/Agenda/1734903)).
+    - Jul 7 - I'll be presenting a paper (w/ Chris Marcum & Molly Copeland) using PROSPER data on whether teens avoid dating their friends' exes ([link](https://whova.com/portal/webapp/njcn_202106/Agenda/1735174)).
   - **Jul 1**: We are launching a new Book Reviews section at the *[Journal of Social Structure](https://www.exeley.com/journal/journal_of_social_structure)*! I am serving as the inaugural Book Review Editor, so please send suggestions my way.
   - **Jun 28**: My "[review essay](https://journals.sagepub.com/doi/full/10.1177/00943061211021083e)" about COVID-19 is out in *Contemporary Sociology*. It's based largely on Nicholas Christakis's book *Apollo's Arrow*.
   - **Jun 7**: I gave a talk ([video link](https://www.youtube.com/watch?v=YsaqWh2elCY&list=PLRaIxt5IVIe5lffzBxiuEROOl43pi-twP)), from joint work w/ Nicholas Landry in the Epidemiology [colloquium series](https://calendar.cuanschutz.edu/event/epi_seminar_series_detecting_responding_to_and_preventing_infectious_diseases_and_outbreaks_in_national_parks_1037?utm_campaign=widget&utm_medium=widget&utm_source=University+of+Colorado+Anschutz+Medical+Campus) at CSPH.
