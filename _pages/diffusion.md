@@ -10,7 +10,7 @@ redirect_from:
 A main interest of mine with SNA is examining how the structure of networks promote or constrain a population's diffusion potential. This area has been a core thread in my research since early in graduate school. Over the years this has taken a number of forms, and has involved a lot of fun methods & collaborators.
 
 ### From Behaviors to Identities
-Over the past few years, I've worked with [David Schaefer](https://sites.google.com/site/drschaef/) to use recent advances in statistically modeling the co-evolution of social network and behavioral data--via exponential random graph (ERG) and stochastic actor based (SAB) models--to examine smoking behavior and intervention potentials. Recently, we've begun thinking about new ways to use these models that is more consistent with theories of religious and health "identities."
+Over the past few years, I've worked with [David Schaefer](https://sites.google.com/site/drschaef/) & others to use recent advances in statistically modeling the co-evolution of social network and behavioral data--via exponential random graph (ERG) and stochastic actor based (SAB) models--to examine smoking behavior and intervention potentials. Recently, we've begun thinking about new ways to use these models that is more consistent with theories of religious and health "identities."
 
 ### HIV (& other STD) epidemic modeling
 This area of my work all started out with thinking about the spread (or control) of HIV in a variety of populations. I've worked with primary data (in [Malawi](https://malawi.pop.upenn.edu/malawi-data-mlsfh)), secondary data (from [Colorado Springs](http://www.icpsr.umich.edu/icpsrweb/NAHDAP/studies/22140); here's a [clip of the PI](https://www.youtube.com/watch?v=NzBAzXUrqag) talking about the launch of the project), and simulations in this work. The punchline is that structural features of networks can operate independently of individual level behaviors to substantially alter a population's epidemic potential. In next phases of this work, I'm interested in exploring how different layers of multiplex networks combine in complementary and contradictory ways.
@@ -21,6 +21,7 @@ While the strands described above highlight some specific projects, this all fit
 ______
 **Related publications**:
 
+  - **jimi adams**, Elizabeth Lawrence, +Joshua Goode, David R. Schaefer, & Stefanie Mollborn. forthcoming. "Peer Network Dynamics of Adolescents’ Health Lifestyles." *Journal of Health & Social Behavior.* [preprint](https://osf.io/xnd39/)
   - Andrea G. Buchwald, **jimi adams**, David M Bortz, & Elizabeth J. Carlton. 2020. “[Infectious disease transmission models to predict, evaluate and improve understanding of SARS-COV-2 trajectory and interventions](https://www.atsjournals.org/doi/abs/10.1513/AnnalsATS.202005-501PS).” *Annals of the American Thoracic Society* 17(10): 1204-1206.
   - **jimi adams**, David R. Schaefer & Andrea Vest Ettekal. 2020. "[Crafting Mosaics: Person-Centered Religious Influence and Selection in Adolescent Friendships](https://osf.io/dc5gh/).” *Journal for the Scientific Study of Religion* 59(1): 39-61.
   - James Moody, **jimi adams** & Martina Morris. 2017. "[Epidemic potential by sexual activity distributions](../files/2017_NS.pdf)." *Network Science* 5(4): 461-475.
