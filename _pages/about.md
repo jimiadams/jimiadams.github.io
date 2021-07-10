@@ -10,10 +10,10 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
-  - **Jul 5-10**: The Sunbelt and NetSci meetings are [combined](https://networks2021.net) this year! Presentations of work I'm involved in (links require registration):
-    - Jul 5 - Jeffrey Smith will be presenting a paper (w/ Robin Gauthier, Kelly Markowski, & Sela Harcey) estimating how network clustering alters vaccine efficacy ([link](https://whova.com/portal/webapp/njcn_202106/Agenda/1734697)).
-    - Jul 6 - Nicholas Landry will be presenting a simulation-based paper demonstrating how uniplex data under-represents multiplex diffusion processes ([link](https://whova.com/portal/webapp/njcn_202106/Agenda/1734903)).
-    - Jul 7 - I'll be presenting a paper (w/ Chris Marcum & Molly Copeland) using PROSPER data on whether teens avoid dating their friends' exes ([link](https://whova.com/portal/webapp/njcn_202106/Agenda/1735174)).
+  - **Jul 5-10**: The Sunbelt and NetSci meetings were [combined](https://networks2021.net) this year! Presentations of work I'm involved in (links are to recorded talks):
+    - I presented work with Chris Marcum & Molly Copeland using PROSPER data to ask whether teens avoid dating their friends' exes ([link](https://www.youtube.com/watch?v=r4sRlS-1lYM)).
+    - Nicholas Landry presented a simulation-based paper demonstrating how uniplex data under-represents multiplex diffusion processes ([link](https://drive.google.com/file/d/1HSyybC0qNhbjEr7dYFQgDgHtLizbfD3l/view)).
+    - Jeffrey Smith presented a paper (w/ Robin Gauthier, Kelly Markowski, & Sela Harcey) estimating how network clustering alters population-level vaccine efficacy.
   - **Jul 1**: The modeling team I worked with on SARS-COV-2 for the state of CO has a [paper](https://wwwnc.cdc.gov/eid/article/27/9/20-4167_article) now out in *Emrgining Infectious Diseases* on how policies shifted state-wide response.   
   - **Jun 28**: We are launching a new Book Reviews section at the *[Journal of Social Structure](https://www.exeley.com/journal/journal_of_social_structure)*! I am serving as the inaugural Book Review Editor, so please send suggestions my way.
   - **Jun 28**: My "[review essay](https://journals.sagepub.com/doi/full/10.1177/00943061211021083e)" about COVID-19 is out in *Contemporary Sociology*. It's based largely on Nicholas Christakis's book *Apollo's Arrow*.
@@ -26,7 +26,6 @@ recent updates & upcoming talks
   - **Nov 9**: We (along w/ Elizabeth Lawrence, Joshua Goode, David Schaefer, and Stefanie Mollborn) posted a version of [our paper](https://osf.io/preprints/socarxiv/xnd39/) on the network influence & homophilous selection of "health lifestyles" to SocArXiv.
   - **Nov 5**: I gave [a talk](https://calendar.colorado.edu/event/complexdynamical_systems_seminar_-_jimi_adams?utm_campaign=widget&utm_medium=widget&utm_source=University+of+Colorado+Boulder#.X9l4oi2cbOR) for the Complex/Dynamical Systems Seminar in the Applied Math department at CU Boulder.
   - **July 20-22**: I co-organized (w/ David Lazer) a [COVID-19 satellite](https://www.insna.org/covid-19-satellite-of-sunbelt) to the summer Sunbelt XL (social network) meetings sponsored by INSNA. Videos of a number of talks are now linked from the program.
-  - **July 1**: Our [commentary](https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.202005-501PS) (w/ Andrea Buchwald, David Bortz, & Beth Carlton) on COVID-19 modeling is posted at the *Annals of the American Thoracic Society*.
 
 about me
 ------
