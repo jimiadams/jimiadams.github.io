@@ -32,7 +32,7 @@ March through December, I was working with a [team](https://www.colorado-data.or
 - **Mobility report**:  [May 14](https://coloradosph.cuanschutz.edu/docs/librariesprovider151/default-document-library/mobility-report_final.pdf?sfvrsn=3b76f3b9_0) ([press release](https://coloradosph.cuanschutz.edu/news-and-events/newsroom/covid-19-news/public-health-main-site-news/cell-phone-data-helps-track-mobility-patterns-during-social-distancing)).
 
 ### Science Communication
-In addition to those larger projects, I also written/presented a few pieces trying to publicly translate relevant elements of the pandemic:
+In addition to those larger projects, I also wrote/presented a few pieces trying to publicly translate relevant elements of the pandemic:
 
 - On [misperceptions about modeling](https://medium.com/@jimi.adams/projections-vs-predictions-redux-3d75eca07f4b), Sept 1 at *Medium*.
 - On [misinformation](https://www.youtube.com/watch?v=xfTsD9pjRmg), June 15 in a CU-Denver open Course.
