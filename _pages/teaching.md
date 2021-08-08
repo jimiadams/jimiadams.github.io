@@ -39,9 +39,9 @@ _____
 #### CU-Denver
   - HBSC 7011, **Theoretical Perspectives in Health & Behavioral Sciences** - This course focuses on a range of theoretical aspects from across the social sciences that are foundational to population health. [*Syllabus*](../files/2019F_HBSC7011_syllabus.pdf): 2019F, 2017F
   - HBSC 7041, **Research Design** - I sought to focus on the principles of research design, while also introducing the practicalities, rather than the other way around. [*Syllabus*](../files/2019S_HBSC7041_syllabus.pdf): 2019S
+  - HBSC 7071, **Social and Behavioral Determinants of Health** - This seminar aims to introduce a broad range of theoretical and empirical perspectives represented in the field of population health. [*Syllabus*](../files/2014F_HBSC7071_syllabus.pdf): 2014F
   - HBSC 7111, **Applications of Health & Behavioral Sciences** - This serves as a capstone course, which is mostly student-led, culminating in a draft of their dissertation proposals. [*Syllabus*](../files/2017S_HBSC7111_syllabus.pdf): 2017S
   - HBSC 7400, **Social Network Analysis** - A "soup-to-nuts" overview of current approaches of the field, including lecture, discussion, and computational tutorials (in R). [*Syllabus*](../files/2016S_HBSC7400_syllabus.pdf): 2016S
-  - HBSC 7071, **Social and Behavioral Determinants of Health** - This seminar aims to introduce a broad range of theoretical and empirical perspectives represented in the field of population health. [*Syllabus*](../files/2014F_HBSC7071_syllabus.pdf): 2014F
 
 #### American University
   - SOCY 696, **Social Network Analysis** - This was the first time I had the chance to teach SNA as a graduate course. [*Syllabus*](../files/2014S_SOCY696_syllabus.pdf): 2014S
@@ -58,7 +58,7 @@ _____
   - **UT-MB** - I conducted a 2-day version (no labs) of these workshops for the department of Preventative Medicine & Community Health at University of Texas, Medical Branch.
   
 _____
-While these courses represent some of my teaching interests, further course topics i am interested in include, Organizations, Sociology of Religion, Science of Science, global HIV/AIDS, and likely a few others I'm not thinking of as courses at the moment. If you are a student interested in these topics, or an instructor who may want to explore collaborative teaching, let me know.
+While these courses represent some of my teaching interests, further course topics i am interested in include, Organizations, Sociology of Religion, global HIV/AIDS, and likely a few others I'm not thinking of *as courses* at the moment. If you are a student interested in these topics, or an instructor who may want to explore collaborative teaching, let me know.
 
 _____
 ### Related Publications
