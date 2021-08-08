@@ -7,9 +7,13 @@ author_profile: true
 For office hours, or to sign up for an appointment, please use my [Calendly](https://calendly.com/jimiadams).<br>
 ( skip to: [undergraduate](#undergraduate) | [graduate](#graduate) | [workshops](#workshops) | [publications](#related-publications) )
 
-### Current
-NOTE: I am on sabbatical for the 2020-21 school year and will not be teaching or taking on any new students for the year. <br/>
+### Current Courses
+In fall 2021, I am teaching the following two courses:
 
+  - UNHL 3999, **How to Science** - This honors seminar in the multidisciplinary science of science focuses separately on (1) what science is, (2) how science is done, and (3) science communication. ***Draft** Syllabus*: [2021F](../files/2021F_UNHL3999_syllabus.pdf).
+  - HBSC 7011, **Theoretical Perspectives in Health & Behavioral Sciences** - This course focuses on a range of theoretical aspects from across the social sciences that are foundational to population health. [*Syllabus*](../files/2019F_HBSC7011_syllabus.pdf): 2021F, 2019F, 2017F
+
+### Previous Courses
 _____
 ### Undergraduate
 #### CU-Denver
