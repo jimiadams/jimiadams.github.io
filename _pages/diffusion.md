@@ -22,7 +22,7 @@ ______
 **Related publications**:
 
   - **jimi adams**, Elizabeth Lawrence, +Joshua Goode, David R. Schaefer, & Stefanie Mollborn. forthcoming. "Peer Network Dynamics of Adolescents’ Health Lifestyles." *Journal of Health & Social Behavior.* [preprint](https://osf.io/xnd39/)
-  - Andrea G. Buchwald, **jimi adams**, David M Bortz, & Elizabeth J. Carlton. 2020. “[Infectious disease transmission models to predict, evaluate and improve understanding of SARS-COV-2 trajectory and interventions](https://www.atsjournals.org/doi/abs/10.1513/AnnalsATS.202005-501PS).” *Annals of the American Thoracic Society* 17(10): 1204-1206.
+  - Andrea Buchwald, Jude Bayham, **jimi adams**, David Bortz, Katie Colborn, Olivia Zarella, Meghan Buran, Jonathan Samet, Debashis Ghosh, Rachel Herlihy, & Elizabeth J. Carlton. 2021. "[Estimating the Impact of State-Wide Policies to Reduce Spread of Severe Acute Respiratory Syndrome Coronavirus 2 in Real Time](https://wwwnc.cdc.gov/eid/article/27/9/20-4167_article)." *Emerging Infectious Diseases* 27(9): 2312-2322.
   - **jimi adams**, David R. Schaefer & Andrea Vest Ettekal. 2020. "[Crafting Mosaics: Person-Centered Religious Influence and Selection in Adolescent Friendships](https://osf.io/dc5gh/).” *Journal for the Scientific Study of Religion* 59(1): 39-61.
   - James Moody, **jimi adams** & Martina Morris. 2017. "[Epidemic potential by sexual activity distributions](../files/2017_NS.pdf)." *Network Science* 5(4): 461-475.
   - **jimi adams** & David R. Schaefer. 2016. "[How Initial Prevalence Moderates Network-Based Smoking Change: Estimating Contextual Effects with Stochastic Actor Based Models](../files/2016_JHSB.pdf)." *Journal of Health & Social Behavior* 57(1):22-38.
