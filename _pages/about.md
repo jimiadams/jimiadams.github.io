@@ -10,7 +10,7 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
-  - **Aug 27**: I'll contributed to the research session in the [Data Science Symposium](https://datascience.ucdenver.edu/events/symposium) at CU-Denver.
+  - **Aug 27**: I contributed to the research session in the [Data Science Symposium](https://datascience.ucdenver.edu/events/symposium) at CU-Denver.
   - **Jul 5-10**: The Sunbelt and NetSci meetings were [combined](https://networks2021.net) this year! Presentations of work I'm involved in (links are to recorded talks):
     - I presented work with Chris Marcum & Molly Copeland using PROSPER data to ask whether teens avoid dating their friends' exes ([link](https://www.youtube.com/watch?v=r4sRlS-1lYM)).
     - Nicholas Landry presented a simulation-based paper demonstrating how uniplex data under-represents multiplex diffusion processes ([link](https://drive.google.com/file/d/1HSyybC0qNhbjEr7dYFQgDgHtLizbfD3l/view)).
