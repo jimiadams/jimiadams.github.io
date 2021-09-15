@@ -10,6 +10,7 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
+  - **Oct 19**: Former CU-Denver student Kate Fitch is lead-author on work with Molly Copeland and myself that will be presented at the [IAPHS annual meetings](https://iaphs.org/conference/conference-program/).
   - **Aug 27**: I contributed to the research session in the [Data Science Symposium](https://datascience.ucdenver.edu/events/symposium) at CU-Denver.
   - **Jul 5-10**: The Sunbelt and NetSci meetings were [combined](https://networks2021.net) this year! Presentations of work I'm involved in (links are to recorded talks):
     - I presented work with Chris Marcum & Molly Copeland using PROSPER data to ask whether teens avoid dating their friends' exes ([link](https://www.youtube.com/watch?v=r4sRlS-1lYM)).
