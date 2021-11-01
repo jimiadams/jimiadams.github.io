@@ -11,7 +11,7 @@ redirect_from:
 Along with [David Lazer](https://cssh.northeastern.edu/faculty/david-lazer/), I organized a satellite conference alongside the annual INSNA (social network) meetings, which ran online July 20-22. About half of the talks are available linked from the [conference program](https://www.insna.org/covid-19-satellite-of-sunbelt).
 
 ### Colorado COVID-19 Modeling Team
-March through December, I was working with a [team](https://www.colorado-data.org/meet-the-team) modeling various aspects of SARS-COV-2 spread and other elements of COVID-19 response for the state of Colorado. I'm collecting those updates together here:
+Beginning in Sept 2021, I picked back up working with the [team](https://www.colorado-data.org/meet-the-team) I had for April-December 2020, modeling various aspects of SARS-COV-2 spread and other elements of COVID-19 response for the state of Colorado. I'm collecting those updates together here:
 
 - **Epidemiological modeling report & updates**: 
 [Dec 16](https://coloradosph.cuanschutz.edu/docs/librariesprovider151/default-document-library/co-modeling-report-12_16_2020_final.pdf?sfvrsn=3988fb9_0), 

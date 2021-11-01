@@ -10,7 +10,10 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
-  - **Oct 19**: Former CU-Denver student Kate Fitch is lead-author on work with Molly Copeland and myself that will be presented at the [IAPHS annual meetings](https://iaphs.org/conference/conference-program/).
+  - **Nov 16**: I'll be presenting ongoing work to the Demography & Social Analysis group at the University of California, Irvine.
+  - **Nov 8**: I'll be [presenting](https://calendar.ucdenver.edu/event/inappropriate_title_here_multiplex_closure_in_adolescents_friendship_romantic_networks) ongoing work in the Department of Mathematics & Statistics at CU-Denver.
+  - **Oct 27**: Our COVID-19 modeling team's work was recognized with awards separately by the Anschutz medical and [downtown](https://news.ucdenver.edu/announcing-the-winners-of-the-2021-pandemic-research-and-creative-activities-awards/) campuses at CU-Denver.
+  - **Oct 19**: Former CU-Denver student Kate Fitch is lead-author on work with Molly Copeland and me that was presented at the [IAPHS annual meetings](https://iaphs.org/conference/conference-program/).
   - **Aug 27**: I contributed to the research session in the [Data Science Symposium](https://datascience.ucdenver.edu/events/symposium) at CU-Denver.
   - **Jul 5-10**: The Sunbelt and NetSci meetings were [combined](https://networks2021.net) this year! Presentations of work I'm involved in (links are to recorded talks):
     - I presented work with Chris Marcum & Molly Copeland using PROSPER data to ask whether teens avoid dating their friends' exes ([link](https://www.youtube.com/watch?v=r4sRlS-1lYM)).
