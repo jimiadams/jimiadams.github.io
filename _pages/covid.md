@@ -14,7 +14,7 @@ Along with [David Lazer](https://cssh.northeastern.edu/faculty/david-lazer/), I 
 Beginning in Sept 2021, I picked back up working with the [team](https://www.colorado-data.org/meet-the-team) I had for April-December 2020, modeling various aspects of SARS-COV-2 spread and other elements of COVID-19 response for the state of Colorado. I'm collecting those updates together here:
 
 - **Epidemiological modeling report & updates**: 
-[Dec 16](https://coloradosph.cuanschutz.edu/docs/librariesprovider151/default-document-library/co-modeling-report-12_16_2020_final.pdf?sfvrsn=3988fb9_0), 
+(2021): [Nov 3](https://coloradosph.cuanschutz.edu/docs/librariesprovider151/default-document-library/the-current-state-of-covid_20211103.pdf?sfvrsn=4e83ddba_0); (2020): [Dec 16](https://coloradosph.cuanschutz.edu/docs/librariesprovider151/default-document-library/co-modeling-report-12_16_2020_final.pdf?sfvrsn=3988fb9_0), 
 [Dec 4](https://drive.google.com/file/d/1yuulQ_WZ-prhShQOd9viAEAu0-0HOzvr/view) (w/ CDPHE [press release](https://covid19.colorado.gov/press-release/state-releases-latest-modeling-report)), 
 [Nov 20](https://drive.google.com/file/d/1fYaOVQwxxWRrDT8nIaqH92cvy3OXt6If/view) ([press release](https://covid19.colorado.gov/press-release/newest-covid-19-model-estimates-1-in-49-coloradans-are-currently-infectious)), 
 [Nov 4](https://drive.google.com/file/d/1eJLNR0JCQEE8asieRJL8tXB8me_OSRue/view) ([press release](https://covid19.colorado.gov/press-release/newest-covid-19-model-indicates-colorado-hospitalizations-are-increasing-more-sharply)),
