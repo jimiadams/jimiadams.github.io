@@ -10,6 +10,7 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
+  - **Nov 22**: Our [paper](https://doi.org/10.1177/00221465211054394) (w/ Liz Lawrence, Joshua Goode, David Schaefer & Stef Mollborn) on the network diffusion and selection of "health lifestyles" is now out in *Journal of Health & Social Behavior* ([preprint]( https://osf.io/preprints/socarxiv/xnd39/)).
   - **Nov 16**: I presented ongoing work to the Demography & Social Analysis group at the University of California, Irvine.
   - **Nov 8**: I [presented](https://calendar.ucdenver.edu/event/inappropriate_title_here_multiplex_closure_in_adolescents_friendship_romantic_networks) ongoing work in the Department of Mathematics & Statistics at CU-Denver.
   - **Oct 27**: Our COVID-19 modeling team's work was recognized with awards separately by the [Anschutz medical](https://news.cuanschutz.edu/news-stories/recipients-of-the-2020-2021-university-research-awards) and [downtown](https://news.ucdenver.edu/announcing-the-winners-of-the-2021-pandemic-research-and-creative-activities-awards/) campuses at CU-Denver.
@@ -23,7 +24,6 @@ recent updates & upcoming talks
   - **Jun 28**: We are launching a new Book Reviews section at the *[Journal of Social Structure](https://www.exeley.com/journal/journal_of_social_structure)*! I am serving as the inaugural Book Review Editor, so please send suggestions my way.
   - **Jun 28**: My "[review essay](https://journals.sagepub.com/doi/full/10.1177/00943061211021083e)" about COVID-19 is out in *Contemporary Sociology*. It's based largely on Nicholas Christakis's book *Apollo's Arrow*.
   - **Jun 7**: I gave a talk ([video link](https://www.youtube.com/watch?v=YsaqWh2elCY&list=PLRaIxt5IVIe5lffzBxiuEROOl43pi-twP)), from joint work w/ Nicholas Landry in the Epidemiology [colloquium series](https://calendar.cuanschutz.edu/event/epi_seminar_series_detecting_responding_to_and_preventing_infectious_diseases_and_outbreaks_in_national_parks_1037?utm_campaign=widget&utm_medium=widget&utm_source=University+of+Colorado+Anschutz+Medical+Campus) at CSPH.
-  - **Apr 21**: I presented joint work (w/ Joshua Goode, Liz Lawrence, David Schaefer & Stef Mollborn) to the Network Analysis Working Group in the Biostats & Informatics Department at CU-Anschutz ([preprint]( https://osf.io/preprints/socarxiv/xnd39/)).
   - **Apr 14**: My [review](https://www.journals.uchicago.edu/doi/abs/10.1086/712889?journalCode=ajs) of Adam Kucharski's book *The Rules of Contagion* is out in the *American Journal of Sociology*.
   - **Feb 9**: Our next book (w/ Ryan Light) is under contract w/ Columbia University Press!
 

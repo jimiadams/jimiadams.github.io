@@ -21,7 +21,7 @@ While the strands described above highlight some specific projects, this all fit
 ______
 **Related publications**:
 
-  - **jimi adams**, Elizabeth Lawrence, +Joshua Goode, David R. Schaefer, & Stefanie Mollborn. forthcoming. "Peer Network Dynamics of Adolescents’ Health Lifestyles." *Journal of Health & Social Behavior.* [preprint](https://osf.io/xnd39/)
+  - **jimi adams**, Elizabeth Lawrence, +Joshua Goode, David R. Schaefer, & Stefanie Mollborn. forthcoming. "[Peer Network Dynamics of Adolescents’ Health Lifestyles](https://osf.io/xnd39/)." *Journal of Health & Social Behavior.*
   - Andrea Buchwald, Jude Bayham, **jimi adams**, David Bortz, Katie Colborn, Olivia Zarella, Meghan Buran, Jonathan Samet, Debashis Ghosh, Rachel Herlihy, & Elizabeth J. Carlton. 2021. "[Estimating the Impact of State-Wide Policies to Reduce Spread of Severe Acute Respiratory Syndrome Coronavirus 2 in Real Time](https://wwwnc.cdc.gov/eid/article/27/9/20-4167_article)." *Emerging Infectious Diseases* 27(9): 2312-2322.
   - **jimi adams**, David R. Schaefer & Andrea Vest Ettekal. 2020. "[Crafting Mosaics: Person-Centered Religious Influence and Selection in Adolescent Friendships](https://osf.io/dc5gh/).” *Journal for the Scientific Study of Religion* 59(1): 39-61.
   - James Moody, **jimi adams** & Martina Morris. 2017. "[Epidemic potential by sexual activity distributions](../files/2017_NS.pdf)." *Network Science* 5(4): 461-475.
