@@ -10,8 +10,11 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
+  - **Mar 2-4**: I'm participating in a [workshop](https://www.nia.nih.gov/research/dbsr/social-network-diffusion-individual-behavior-change-interventions-virtual-workshop) on Social Network Diffusion & Aging at the NIA.
+  - **Feb 18-20**: I participated in the Social Science Foo Camp ([description in Wired](https://www.wired.com/story/facebook-social-network-becomes-social-science-subject/)), where interesting conversations were had.
+  - **Jan 28**: I discussed an overview of my book project w/ Ryan Light with the [Center for Applied Network Analysis](https://sns.usc.edu/cana/) at the University of Southern California.
   - **Nov 22**: Our [paper](https://doi.org/10.1177/00221465211054394) (w/ Liz Lawrence, Joshua Goode, David Schaefer & Stef Mollborn) on the network diffusion and selection of "health lifestyles" is now out in *Journal of Health & Social Behavior* ([preprint]( https://osf.io/preprints/socarxiv/xnd39/)).
-  - **Nov 16**: I presented ongoing work to the Demography & Social Analysis group at the University of California, Irvine.
+  - **Nov 16**: I presented ongoing work to the [Demography & Social Analysis group](https://www.demography.uci.edu/) at the University of California, Irvine.
   - **Nov 8**: I [presented](https://calendar.ucdenver.edu/event/inappropriate_title_here_multiplex_closure_in_adolescents_friendship_romantic_networks) ongoing work in the Department of Mathematics & Statistics at CU-Denver.
   - **Oct 27**: Our COVID-19 modeling team's work was recognized with awards separately by the [Anschutz medical](https://news.cuanschutz.edu/news-stories/recipients-of-the-2020-2021-university-research-awards) and [downtown](https://news.ucdenver.edu/announcing-the-winners-of-the-2021-pandemic-research-and-creative-activities-awards/) campuses at CU-Denver.
   - **Oct 19**: Former CU-Denver student Kate Fitch is lead-author on work with Molly Copeland and me that was presented at the [IAPHS annual meetings](https://iaphs.org/conference/conference-program/).
