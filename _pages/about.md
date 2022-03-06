@@ -10,7 +10,7 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
-  - **Mar 2-4**: I'm participating in a [workshop](https://www.nia.nih.gov/research/dbsr/social-network-diffusion-individual-behavior-change-interventions-virtual-workshop) on Social Network Diffusion & Aging at the NIA.
+  - **Mar 2-4**: I participated in a [workshop](https://www.nia.nih.gov/research/dbsr/social-network-diffusion-individual-behavior-change-interventions-virtual-workshop) on Social Network Diffusion & Aging at the NIA.
   - **Feb 18-20**: I participated in the Social Science Foo Camp ([description in Wired](https://www.wired.com/story/facebook-social-network-becomes-social-science-subject/)), where interesting conversations were had.
   - **Jan 28**: I discussed an overview of my book project w/ Ryan Light with the [Center for Applied Network Analysis](https://sns.usc.edu/cana/) at the University of Southern California.
   - **Nov 22**: Our [paper](https://doi.org/10.1177/00221465211054394) (w/ Liz Lawrence, Joshua Goode, David Schaefer & Stef Mollborn) on the network diffusion and selection of "health lifestyles" is now out in *Journal of Health & Social Behavior* ([preprint]( https://osf.io/preprints/socarxiv/xnd39/)).
