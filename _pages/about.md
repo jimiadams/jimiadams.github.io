@@ -10,6 +10,7 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
+  - **Apr 16**: Along w/ Jenny Trinitapoli, Abdallah Chilungo, Huimeng Zhao, & Sara Yeatman, we have a [visualization](https://doi.org/10.1177/23780231221094752) on the flexibility of men's intended fertility in Malawi, now out in *Socius*.
   - **Mar 2-4**: I participated in a [workshop](https://www.nia.nih.gov/research/dbsr/social-network-diffusion-individual-behavior-change-interventions-virtual-workshop) on Social Network Diffusion & Aging at the NIA.
   - **Feb 18-20**: I participated in the Social Science Foo Camp ([description in Wired](https://www.wired.com/story/facebook-social-network-becomes-social-science-subject/)), where interesting conversations were had.
   - **Jan 28**: I discussed an overview of my book project w/ Ryan Light with the [Center for Applied Network Analysis](https://sns.usc.edu/cana/) at the University of Southern California.
