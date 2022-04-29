@@ -14,6 +14,7 @@ recent updates & upcoming talks
   - **Mar 2-4**: I participated in a [workshop](https://www.nia.nih.gov/research/dbsr/social-network-diffusion-individual-behavior-change-interventions-virtual-workshop) on Social Network Diffusion & Aging at the NIA.
   - **Feb 18-20**: I participated in the Social Science Foo Camp ([description in Wired](https://www.wired.com/story/facebook-social-network-becomes-social-science-subject/)), where interesting conversations were had.
   - **Jan 28**: I discussed an overview of my book project w/ Ryan Light with the [Center for Applied Network Analysis](https://sns.usc.edu/cana/) at the University of Southern California.
+  - **Nov 28**: Michał Bojanowski and I posted a [pre-print](https://mbojan.github.io/nba-trades/) addressing whether NBA teams avoid trading within their division. (They do not.)
   - **Nov 22**: Our [paper](https://doi.org/10.1177/00221465211054394) (w/ Liz Lawrence, Joshua Goode, David Schaefer & Stef Mollborn) on the network diffusion and selection of "health lifestyles" is now out in *Journal of Health & Social Behavior* ([preprint]( https://osf.io/preprints/socarxiv/xnd39/)).
   - **Nov 16**: I presented ongoing work to the [Demography & Social Analysis group](https://www.demography.uci.edu/) at the University of California, Irvine.
   - **Nov 8**: I [presented](https://calendar.ucdenver.edu/event/inappropriate_title_here_multiplex_closure_in_adolescents_friendship_romantic_networks) ongoing work in the Department of Mathematics & Statistics at CU-Denver.
