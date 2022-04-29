@@ -10,6 +10,7 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
+  - **Apr 27**: Nicholas Landry and I have a new [pre-print](https://arxiv.org/abs/2204.12348#) on diffusion modeling in multiplex networks. (Here's a [talk version](https://www.youtube.com/watch?v=YsaqWh2elCY&list=PLRaIxt5IVIe5lffzBxiuEROOl43pi-twP) of the same work.)
   - **Apr 25**: Along w/ Jenny Trinitapoli, Abdallah Chilungo, Huimeng Zhao, & Sara Yeatman, we have a [visualization](https://doi.org/10.1177/23780231221094752) on the flexibility of men's intended fertility in Malawi, now out in *Socius*.
   - **Mar 2-4**: I participated in a [workshop](https://www.nia.nih.gov/research/dbsr/social-network-diffusion-individual-behavior-change-interventions-virtual-workshop) on Social Network Diffusion & Aging at the NIA.
   - **Feb 18-20**: I participated in the Social Science Foo Camp ([description in Wired](https://www.wired.com/story/facebook-social-network-becomes-social-science-subject/)), where interesting conversations were had.
@@ -21,15 +22,8 @@ recent updates & upcoming talks
   - **Oct 27**: Our COVID-19 modeling team's work was recognized with awards separately by the [Anschutz medical](https://news.cuanschutz.edu/news-stories/recipients-of-the-2020-2021-university-research-awards) and [downtown](https://news.ucdenver.edu/announcing-the-winners-of-the-2021-pandemic-research-and-creative-activities-awards/) campuses at CU-Denver.
   - **Oct 19**: Former CU-Denver student Kate Fitch is lead-author on work with Molly Copeland and me that was presented at the [IAPHS annual meetings](https://iaphs.org/conference/conference-program/).
   - **Aug 27**: I contributed to the research session in the [Data Science Symposium](https://datascience.ucdenver.edu/events/symposium) at CU-Denver.
-  - **Jul 5-10**: The Sunbelt and NetSci meetings were [combined](https://networks2021.net) this year! Presentations of work I'm involved in (links are to recorded talks):
-    - I presented work with Chris Marcum & Molly Copeland using PROSPER data to ask whether teens avoid dating their friends' exes ([link](https://www.youtube.com/watch?v=r4sRlS-1lYM)).
-    - Nicholas Landry presented a simulation-based paper demonstrating how uniplex data under-represents multiplex diffusion processes ([link](https://drive.google.com/file/d/1HSyybC0qNhbjEr7dYFQgDgHtLizbfD3l/view)).
-    - Jeffrey Smith presented a paper (w/ Robin Gauthier, Kelly Markowski, & Sela Harcey) estimating how network clustering alters population-level vaccine efficacy.
   - **Jul 1**: The modeling team I worked with on SARS-COV-2 for the state of CO has a [paper](https://wwwnc.cdc.gov/eid/article/27/9/20-4167_article) now out in *Emerging Infectious Diseases* on how policies shifted state-wide response.   
   - **Jun 28**: We are launching a new Book Reviews section at the *[Journal of Social Structure](https://www.exeley.com/journal/journal_of_social_structure)*! I am serving as the inaugural Book Review Editor, so please send suggestions my way.
-  - **Jun 28**: My "[review essay](https://journals.sagepub.com/doi/full/10.1177/00943061211021083e)" about COVID-19 is out in *Contemporary Sociology*. It's based largely on Nicholas Christakis's book *Apollo's Arrow*.
-  - **Jun 7**: I gave a talk ([video link](https://www.youtube.com/watch?v=YsaqWh2elCY&list=PLRaIxt5IVIe5lffzBxiuEROOl43pi-twP)), from joint work w/ Nicholas Landry in the Epidemiology [colloquium series](https://calendar.cuanschutz.edu/event/epi_seminar_series_detecting_responding_to_and_preventing_infectious_diseases_and_outbreaks_in_national_parks_1037?utm_campaign=widget&utm_medium=widget&utm_source=University+of+Colorado+Anschutz+Medical+Campus) at CSPH.
-  - **Apr 14**: My [review](https://www.journals.uchicago.edu/doi/abs/10.1086/712889?journalCode=ajs) of Adam Kucharski's book *The Rules of Contagion* is out in the *American Journal of Sociology*.
   - **Feb 9**: Our next book (w/ Ryan Light) is under contract w/ Columbia University Press!
 
 about me
