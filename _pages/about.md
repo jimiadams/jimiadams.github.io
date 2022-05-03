@@ -10,6 +10,7 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
+  - **May 10**: I contributed to the Social Networks & Health workshop at Duke University on the topic of [ethics in social network research](https://sites.duke.edu/dnac/training/#ethics).
   - **Apr 27**: Nicholas Landry and I have a new [pre-print](https://arxiv.org/abs/2204.12348#) on diffusion modeling in multiplex networks. (Here's a [talk version](https://www.youtube.com/watch?v=YsaqWh2elCY&list=PLRaIxt5IVIe5lffzBxiuEROOl43pi-twP) of the same work.)
   - **Apr 25**: Along w/ Jenny Trinitapoli, Abdallah Chilungo, Huimeng Zhao, & Sara Yeatman, we have a [visualization](https://doi.org/10.1177/23780231221094752) on the flexibility of men's intended fertility in Malawi, now out in *Socius*.
   - **Mar 2-4**: I participated in a [workshop](https://www.nia.nih.gov/research/dbsr/social-network-diffusion-individual-behavior-change-interventions-virtual-workshop) on Social Network Diffusion & Aging at the NIA.
