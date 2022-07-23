@@ -7,10 +7,7 @@ author_profile: true
 For office hours, or to sign up for an appointment, please use my [Calendly](https://calendly.com/jimiadams).<br>
 ( skip to: [undergraduate](#undergraduate) | [graduate](#graduate) | [workshops](#workshops) | [publications](#related-publications) )
 
-### Current Courses
-In spring 2022, I am teaching the following two courses:
-  - PBHL 4040, **Social Determinants of Health** - This senior-level course serves as the theoretical core of our undergraduate Public Health major, focusing on multiple  bases of population health inequalities. ([Syllabus](../files/2022S_PBHL4040_syllabus.pdf))
-  - PBHL 4099, **Capstone Experience in Public Health** - This is a problem-based, student led capstone for our Public Health majors. ([Syllabus](../files/2022S_PBHL4099_syllabus.pdf))
+<!-- ### Current Courses -->
 
 ### Previous Courses
 _____
@@ -18,11 +15,8 @@ _____
 #### CU-Denver
   - PBHL 3999, **Diffusion: How Things Spread** - This elective explores how diseases and behaviors spread through a population. My first time offering it happened to coincide with the onset of the COVID-19 pandemic. [*Syllabus*](../files/2020S_PBHL3999_syllabus.pdf): 2020S.
   - UNHL 3999, **How to Science** - This honors seminar in the multidisciplinary science of science focused separately on (1) what science is, (2) how science is done, and (3) science communication. *Syllabus*: [2021F](../files/2021F_UNHL3999_syllabus.pdf).
-  - PBHL 4040, **Social Determinants of Health** - This senior-level course serves as the theoretical core of our undergraduate Public Health major, focusing on multiple  bases of population health inequalities. *Syllabi*: 
-    [2020S](../files/2020S_PBHL4040_syllabus.pdf), 
-    [2017S](../files/2017S_PBHL4040_syllabus.pdf),
-    [2016S](../files/2016S_PBHL4040_syllabus.pdf)
-  - PBHL 4099, **Capstone Experience in Public Health** - This is a problem-based, student led capstone for our Public Health majors. [*Syllabus*](../files/2019S_PBHL4099_syllabus.pdf): 2019S, 2017F, 2016S, 2014F.
+  - PBHL 4040, **Social Determinants of Health** - This senior-level course serves as the theoretical core of our undergraduate Public Health major, focusing on multiple  bases of population health inequalities. [*Syllabus*](../files/2022S_PBHL4040_syllabus.pdf): 2022S, 2020S, 2017S, 2016S.
+  - PBHL 4099, **Capstone Experience in Public Health** - This is a problem-based, student led capstone for our Public Health majors. [*Syllabus*](../files/2022S_PBHL4099_syllabus.pdf) 2022S, 2019S, 2017F, 2016S, 2014F.
 
 #### American University
   - SOCY 100, **US Society** - Our intro course was split into two options; this was the version focused on the US. [*Syllabus*](../files/2014S_SOCY100_syllabus.pdf): 2014S

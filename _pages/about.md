@@ -10,26 +10,20 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
+  - **Jul 31**: I was promoted to full Professor.
   - **May 10**: I contributed to the Social Networks & Health workshop at Duke University on the topic of [ethics in social network research](https://sites.duke.edu/dnac/training/#ethics).
   - **Apr 27**: Nicholas Landry and I have a new [pre-print](https://arxiv.org/abs/2204.12348#) on diffusion modeling in multiplex networks. (Here's a [talk version](https://www.youtube.com/watch?v=YsaqWh2elCY&list=PLRaIxt5IVIe5lffzBxiuEROOl43pi-twP) of the same work.)
   - **Apr 25**: Along w/ Jenny Trinitapoli, Abdallah Chilungo, Huimeng Zhao, & Sara Yeatman, we have a [visualization](https://doi.org/10.1177/23780231221094752) on the flexibility of men's intended fertility in Malawi, now out in *Socius*.
-  - **Mar 2-4**: I participated in a [workshop](https://www.nia.nih.gov/research/dbsr/social-network-diffusion-individual-behavior-change-interventions-virtual-workshop) on Social Network Diffusion & Aging at the NIA.
-  - **Feb 18-20**: I participated in the Social Science Foo Camp ([description in Wired](https://www.wired.com/story/facebook-social-network-becomes-social-science-subject/)), where interesting conversations were had.
-  - **Jan 28**: I discussed an overview of my book project w/ Ryan Light with the [Center for Applied Network Analysis](https://sns.usc.edu/cana/) at the University of Southern California.
   - **Nov 28**: Michał Bojanowski and I posted a [pre-print](https://mbojan.github.io/nba-trades/) addressing whether NBA teams avoid trading within their division. (They do not.)
   - **Nov 22**: Our [paper](https://doi.org/10.1177/00221465211054394) (w/ Liz Lawrence, Joshua Goode, David Schaefer & Stef Mollborn) on the network diffusion and selection of "health lifestyles" is now out in *Journal of Health & Social Behavior* ([preprint]( https://osf.io/preprints/socarxiv/xnd39/)).
-  - **Nov 16**: I presented ongoing work to the [Demography & Social Analysis group](https://www.demography.uci.edu/) at the University of California, Irvine.
-  - **Nov 8**: I [presented](https://calendar.ucdenver.edu/event/inappropriate_title_here_multiplex_closure_in_adolescents_friendship_romantic_networks) ongoing work in the Department of Mathematics & Statistics at CU-Denver.
   - **Oct 27**: Our COVID-19 modeling team's work was recognized with awards separately by the [Anschutz medical](https://news.cuanschutz.edu/news-stories/recipients-of-the-2020-2021-university-research-awards) and [downtown](https://news.ucdenver.edu/announcing-the-winners-of-the-2021-pandemic-research-and-creative-activities-awards/) campuses at CU-Denver.
   - **Oct 19**: Former CU-Denver student Kate Fitch is lead-author on work with Molly Copeland and me that was presented at the [IAPHS annual meetings](https://iaphs.org/conference/conference-program/).
-  - **Aug 27**: I contributed to the research session in the [Data Science Symposium](https://datascience.ucdenver.edu/events/symposium) at CU-Denver.
-  - **Jul 1**: The modeling team I worked with on SARS-COV-2 for the state of CO has a [paper](https://wwwnc.cdc.gov/eid/article/27/9/20-4167_article) now out in *Emerging Infectious Diseases* on how policies shifted state-wide response.   
   - **Jun 28**: We are launching a new Book Reviews section at the *[Journal of Social Structure](https://www.exeley.com/journal/journal_of_social_structure)*! I am serving as the inaugural Book Review Editor, so please send suggestions my way.
   - **Feb 9**: Our next book (w/ Ryan Light) is under contract w/ Columbia University Press!
 
 about me
 ------
-I am an Associate Professor in the [Department of Health and Behavioral Sciences](https://clas.ucdenver.edu/hbsc/) at the [University of Colorado Denver](https://www.ucdenver.edu). I recently wrapped up a 3.5-year term as director of our [undergraduate programs in Public Health](https://clas.ucdenver.edu/hbsc/undergraduate-students).
+I am a Professor in the [Department of Health and Behavioral Sciences](https://clas.ucdenver.edu/hbsc/) at the [University of Colorado Denver](https://www.ucdenver.edu). I currently also serve as our program's Director of Graduate Studies, and previously completed a 3.5-year term as director of our [undergraduate programs in Public Health](https://clas.ucdenver.edu/hbsc/undergraduate-students).
 
 Broadly, my research revolves around addressing how networks constrain or promote the diffusion of information and/or diseases through populations. Much of this work has focused on HIV/AIDS among populations in the US and Sub-Saharan Africa. Recently, I have spent more time examining the integrative patterns and processes in problem-focused areas of science that draw from many academic disciplines (e.g., HIV/AIDS, demography, the environment). In addition, I have a primary interest in using social network theory to improve strategies used in the design and implementation of primary data collection projects. Check out my recent [book](/books/)!
 
