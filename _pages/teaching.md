@@ -9,7 +9,7 @@ For office hours, or to sign up for an appointment, please use my [Calendly](htt
 
 <!-- ### Current Courses -->
 ### Upcoming Courses
-  - **Social Network Analysis** (Sept 29- Oct 1)- Offered through [Statistical Horizons](https://statisticalhorizons.com/seminars/introduction-to-social-network-analysis3/), this overview of *descriptive* approaches to analyzing social network data covers data structure, homophily, social balance, local network composition, centralities, subgroup cohesion, network clustering (“communities”), and equivalence in a 3-day workshop.
+  - **Social Network Analysis** (Sept 29--Oct 1) - Offered through [Statistical Horizons](https://statisticalhorizons.com/seminars/introduction-to-social-network-analysis3/), this overview of *descriptive* approaches to analyzing social network data covers data structure, homophily, social balance, local network composition, centralities, subgroup cohesion, network clustering (“communities”), and equivalence in a 3-day workshop.
 
 ### Previous Courses
 _____
