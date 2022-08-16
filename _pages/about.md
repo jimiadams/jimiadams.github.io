@@ -10,6 +10,7 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
+  - **Sep 29 - Oct 1**: I'll be conducting a seminar on [Introduction to Social Network Analysis](https://statisticalhorizons.com/seminars/introduction-to-social-network-analysis3/) through Statistical Horizons.
   - **Aug 12-13**: I am attending (& nominally helped co-organize) a workshop at CU-Boulder on "[Contagion: on Complex Social Systems](https://www.colorado.edu/amath/caccss2022)."
   - **Jul 31**: I was promoted to full Professor.
   - **May 10**: I contributed to the Social Networks & Health workshop at Duke University on the topic of [ethics in social network research](https://sites.duke.edu/dnac/training/#ethics).
