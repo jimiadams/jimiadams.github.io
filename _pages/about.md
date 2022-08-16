@@ -12,7 +12,7 @@ recent updates & upcoming talks
 ------
   - **Sep 29 - Oct 1**: I'll be conducting a seminar on [Introduction to Social Network Analysis](https://statisticalhorizons.com/seminars/introduction-to-social-network-analysis3/) through Statistical Horizons.
   - **Aug 12-13**: I am attending (& nominally helped co-organize) a workshop at CU-Boulder on "[Contagion: on Complex Social Systems](https://www.colorado.edu/amath/caccss2022)."
-  - **Jul 31**: I was promoted to full Professor.
+  - **Jul 31**: I was promoted to full Professor; I also added a courtesy affiliation with the [Department of Mathematical & Statistical Sciences](https://clas.ucdenver.edu/mathematical-and-statistical-sciences/).
   - **May 10**: I contributed to the Social Networks & Health workshop at Duke University on the topic of [ethics in social network research](https://sites.duke.edu/dnac/training/#ethics).
   - **Apr 27**: Nicholas Landry and I have a new [pre-print](https://arxiv.org/abs/2204.12348#) on diffusion modeling in multiplex networks. (Here's a [talk version](https://www.youtube.com/watch?v=YsaqWh2elCY&list=PLRaIxt5IVIe5lffzBxiuEROOl43pi-twP) of the same work.)
   - **Apr 25**: Along w/ Jenny Trinitapoli, Abdallah Chilungo, Huimeng Zhao, & Sara Yeatman, we have a [visualization](https://doi.org/10.1177/23780231221094752) on the flexibility of men's intended fertility in Malawi, now out in *Socius*.
