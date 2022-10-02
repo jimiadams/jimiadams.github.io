@@ -10,7 +10,7 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
-  - **Sep 29 - Oct 1**: I'll be conducting a seminar on [Introduction to Social Network Analysis](https://statisticalhorizons.com/seminars/introduction-to-social-network-analysis3/) through Statistical Horizons.
+  - **Sep 29 - Oct 1**: I conducted a seminar on [Introduction to Social Network Analysis](https://statisticalhorizons.com/seminars/introduction-to-social-network-analysis3/) through Statistical Horizons.
   - **Sep 27**: Andrea Vest Ettekal & I posted a [pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4231406) of a forthcoming chapter on social network analysis applications in developmental science at SSRN.
   - **Sep 12**: Miranda Lubbers & I posted a [pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4216936) of a forthcoming chapter on social network data collection at SSRN.
   - **Aug 12-13**: I attended (& nominally helped co-organize) a workshop at CU-Boulder on "[Contagion: on Complex Social Systems](https://www.colorado.edu/amath/caccss2022)."
