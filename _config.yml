@@ -102,6 +102,7 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  mastodon         : https://sciences.social/@jimiadams
   lastfm           :
   linkedin         :
   pinterest        :
@@ -109,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jimiadams"
+  twitter          : # "jimiadams"
   vine             :
   weibo            :
   xing             :
