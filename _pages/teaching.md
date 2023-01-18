@@ -7,9 +7,9 @@ author_profile: true
 For office hours, or to sign up for an appointment, please use my [Calendly](https://calendly.com/jimiadams).<br>
 ( skip to: [undergraduate](#undergraduate) | [graduate](#graduate) | [workshops](#workshops) | [publications](#related-publications) )
 
-<!-- ### Current Courses -->
-### Upcoming Courses
-  - **Social Network Analysis** (Sept 29--Oct 1) - Offered through [Statistical Horizons](https://statisticalhorizons.com/seminars/introduction-to-social-network-analysis3/), this overview of *descriptive* approaches to analyzing social network data covers data structure, homophily, social balance, local network composition, centralities, subgroup cohesion, network clustering (“communities”), and equivalence in a 3-day workshop.
+### Current Courses
+  - PBHL 3999, **Diffusion: How Things Spread** - This elective explores how diseases and behaviors spread through a population. My first time offering it happened to coincide with the onset of the COVID-19 pandemic; in 2023 I'm offering it virtually. [*Syllabus*](../files/2023S_PBHL3999_syllabus.pdf)
+  - HBSC 7041, **Research Design** - My approach in this course focuses on the principles of research design, picking up the practicalities, rather than organizing around methods and seeking to generalize their aims. [*Syllabus*](../files/2023S_HBSC7041_syllabus.pdf)
 
 ### Previous Courses
 _____
@@ -49,6 +49,7 @@ _____
 _____
 ### Workshops
 #### Social Network Analysis
+  - [Statistical Horizons](https://statisticalhorizons.com/seminars/introduction-to-social-network-analysis3/), - This was a 3-day workshop providing overview of *descriptive* approaches (ego composition, balance, density, distance, centralities, cohesion/clustering, & equivalence) to analyzing social network data conceptually, and in R.
   - [**ICPSR**](https://www.icpsr.umich.edu/web/pages/sumprog/index.html) - Hosted by the University of Michigan, this summer "stats camp" draws a range of graduate students, post docs, faculty, and others from across the social sciences who are interested advancing their methods chops. [*Syllabus*](../files/ICPSR_SNA_Syllabus.pdf): 2020 (online), 2019, 2017 (Boulder), 2016 (Ann Arbor)
   - [**EPIC**](https://www.publichealth.columbia.edu/research/episummercolumbia) - Hosted by Columbia University, this summer workshop series draws a range of public health scholars and professionals from across the globe who are interested in learning new methods. [*Syllabus*](../files/EPIC_SNA_Syllabus.pdf): 2017, 2016, 2015, 2014, 2013
   - **UT-MB** - I conducted a 2-day version (no labs) of these workshops for the department of Preventative Medicine & Community Health at University of Texas, Medical Branch.
