@@ -10,16 +10,14 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
+  - **Jan 20**: Nicholas Landry and I have a new [paper] in *PLoS One* on diffusion modeling in multiplex networks. (Here's a [talk version](https://www.youtube.com/watch?v=YsaqWh2elCY&list=PLRaIxt5IVIe5lffzBxiuEROOl43pi-twP) or [pre-print](https://arxiv.org/abs/2204.12348#) of the same work.)
   - **Sep 29 - Oct 1**: I conducted a seminar on [Introduction to Social Network Analysis](https://statisticalhorizons.com/seminars/introduction-to-social-network-analysis3/) through Statistical Horizons.
   - **Sep 27**: Andrea Vest Ettekal & I posted a [pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4231406) of a forthcoming chapter on social network analysis applications in developmental science at SSRN.
   - **Sep 12**: Miranda Lubbers & I posted a [pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4216936) of a forthcoming chapter on social network data collection at SSRN.
   - **Aug 12-13**: I attended (& nominally helped co-organize) a workshop at CU-Boulder on "[Contagion: on Complex Social Systems](https://www.colorado.edu/amath/caccss2022)."
   - **Jul 31**: I was promoted to full Professor; I also added a courtesy affiliation with the [Department of Mathematical & Statistical Sciences](https://clas.ucdenver.edu/mathematical-and-statistical-sciences/).
   - **May 10**: I contributed to the Social Networks & Health workshop at Duke University on the topic of [ethics in social network research](https://sites.duke.edu/dnac/training/#ethics).
-  - **Apr 27**: Nicholas Landry and I have a new [pre-print](https://arxiv.org/abs/2204.12348#) on diffusion modeling in multiplex networks. (Here's a [talk version](https://www.youtube.com/watch?v=YsaqWh2elCY&list=PLRaIxt5IVIe5lffzBxiuEROOl43pi-twP) of the same work.)
   - **Apr 25**: Along w/ Jenny Trinitapoli, Abdallah Chilungo, Huimeng Zhao, & Sara Yeatman, we have a [visualization](https://doi.org/10.1177/23780231221094752) on the flexibility of men's intended fertility in Malawi, now out in *Socius*.
-  - **Nov 28**: Michał Bojanowski and I posted a [pre-print](https://mbojan.github.io/nba-trades/) addressing whether NBA teams avoid trading within their division. (They do not.)
-  - **Nov 22**: Our [paper](https://doi.org/10.1177/00221465211054394) (w/ Liz Lawrence, Joshua Goode, David Schaefer & Stef Mollborn) on the network diffusion and selection of "health lifestyles" is now out in *Journal of Health & Social Behavior* ([preprint]( https://osf.io/preprints/socarxiv/xnd39/)).
   - **2021**: We launched a new Book Reviews section at the *[Journal of Social Structure](https://sciendo.com/journal/JOSS)*! I am serving as the inaugural Book Review Editor, so please send suggestions my way.
 <!--  - **Feb 9**: Our next book (w/ Ryan Light) is under contract w/ Columbia University Press! -->
 
