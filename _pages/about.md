@@ -10,6 +10,7 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
+  - **Mar 30**: Beginning on January 2024, I will be a Professor in the department of [Sociology](https://sc.edu/study/colleges_schools/artsandsciences/sociology/) at the University of South Carolina.
   - **Jan 20**: Nicholas Landry and I have a new [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279345) in *PLoS One* on diffusion modeling in multiplex networks. (Here's a [talk version](https://www.youtube.com/watch?v=YsaqWh2elCY&list=PLRaIxt5IVIe5lffzBxiuEROOl43pi-twP) or [pre-print](https://arxiv.org/abs/2204.12348#) of the same work.)
   - **Sep 29 - Oct 1**: I conducted a seminar on [Introduction to Social Network Analysis](https://statisticalhorizons.com/seminars/introduction-to-social-network-analysis3/) through Statistical Horizons.
   - **Sep 27**: Andrea Vest Ettekal & I posted a [pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4231406) of a forthcoming chapter on social network analysis applications in developmental science at SSRN.
