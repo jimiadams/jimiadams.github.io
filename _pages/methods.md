@@ -9,7 +9,9 @@ redirect_from:
 
 I've had a long-standing interest in drawing on network theory to evaluate and improve methods - particularly of data collection. This has lead to my involvement in a number of primary data collection projects (in Malawi, South Africa and New York City), and evaluation of secondary network data (in Colorado Springs among others).
 
-One of my favorite projects in this vein outside of data collection/evaluation was working with [Gina Lovasi](https://drexel.edu/dornsife/academics/faculty/Gina%20Lovasi/), and later [Katie Faust](https://www.faculty.uci.edu/profile.cfm?faculty_id=4660), to compile advances in the combination of network and spatial analytic approaches, which culminated in the publication of a special isse of *[Social Networks](https://www.sciencedirect.com/journal/social-networks/vol/34/issue/1)*.
+I'm presently leading an initiative supported by INSNA to produce a white paper that's aiming to smooth the IRB approval process for network researchers at their local institutions.
+
+One of my favorite previous projects in this vein outside of data collection/evaluation was working with [Gina Lovasi](https://drexel.edu/dornsife/academics/faculty/Gina%20Lovasi/), and later [Katie Faust](https://www.faculty.uci.edu/profile.cfm?faculty_id=4660), to compile advances in the combination of network and spatial analytic approaches, which culminated in the publication of a special isse of *[Social Networks](https://www.sciencedirect.com/journal/social-networks/vol/34/issue/1)*.
 
 ______
 **Related publications**:
