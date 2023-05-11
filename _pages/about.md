@@ -11,6 +11,8 @@ redirect_from:
 recent updates & upcoming talks
 ------
   - **Jan 2024**: Beginning next spring, I will be a Professor in the department of [Sociology](https://sc.edu/study/colleges_schools/artsandsciences/sociology/) at the University of South Carolina.
+  - **Oct 20-22**: I'll be at the [annual meetings](https://sssreligion.org/annual-meeting/meeting-info/) of the Society for the Scientific Study of Religion, where El Brush will be presenting some of our new work (also w/ Jen Boylan) on religious mosaics & chronic health conditions.
+  - **Jun 28 - Jul 1**: I'll be at [Sunbelt](https://www.insna.org/events/sunbelt-2023) (the INSNA annual meetings), where Paulina Erices-Ocampo will be presenting some of our new work (also w/ Miranda Lubbers) on social capital.
   - **May 15-17**: I'll be contributing to the Networks & Health [workshop](https://sites.duke.edu/dnac/training/) at the Duke Network Analysis Center.
   - **May 7-10**: I gave a talk at the MIWI [Summer Institute](https://sph.umich.edu/mental-physical-health-training/) at the University of Michigan.
   - **Jan 20**: Nicholas Landry and I have a new [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279345) in *PLoS One* on diffusion modeling in multiplex networks. (Here's a [talk version](https://www.youtube.com/watch?v=YsaqWh2elCY&list=PLRaIxt5IVIe5lffzBxiuEROOl43pi-twP) or [pre-print](https://arxiv.org/abs/2204.12348#) of the same work.)
