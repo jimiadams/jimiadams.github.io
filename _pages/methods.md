@@ -14,6 +14,7 @@ One of my favorite projects in this vein outside of data collection/evaluation w
 ______
 **Related publications**:
 
+  - **jimi adams** & Miranda J. Lubbers. 2023. "Social Network Data Collection: Principles and Modalities." Chapter 40 in *SAGE Handbook of Social Network Analysis*, 2nd Edition edited by John McLevey, Peter Carrington, & John Scott. ([preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4216936))
   - **jimi adams**, Tatiane Santos, & Venice Ng Williams. 2020. "[Strategies for Collecting Social Network Data: Overview, Assessment, and Ethics](https://osf.io/preprints/socarxiv/zgawf/)." Chapter 7 in *The Oxford Handbook of Social Networks*, edited by Ryan Light & James Moody. Oxford University Press. ([book](https://global.oup.com/academic/product/the-oxford-handbook-of-social-networks-9780190251765))
   - **jimi adams**. 2019. *[Gathering Social Network Data](https://us.sagepub.com/en-us/nam/gathering-social-network-data/book260973)*. SAGE, Quantitative Applications in the Social Sciences Series #180.
   - Stèphane Helleringer, **jimi adams**, Sara Yeatman, and James Mkandawire. 2019. "[Evaluating Sampling Biases from Third-party Reporting as a Method for Improving Survey Measures of Sensitive Behaviors](../files/2019_SN.pdf)." *Social Networks* 59:134-140.
