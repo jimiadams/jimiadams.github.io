@@ -12,6 +12,7 @@ recent updates & upcoming talks
 ------
   - **Jan 2024**: Beginning next spring, I will be a Professor in the department of [Sociology](https://sc.edu/study/colleges_schools/artsandsciences/sociology/) at the University of South Carolina.
   - **Oct 20-22**: I'll be at the [annual meetings](https://sssreligion.org/annual-meeting/meeting-info/) of the Society for the Scientific Study of Religion, where El Brush will be presenting some of our new work (also w/ Jen Boylan) on religious mosaics & chronic health conditions.
+  - **Aug 14-16**: I'll be attending (& nominally am helping co-organize) a workshop at Vermont addressing "[Contagion: on Complex Social Systems](https://ccss-conference.github.io/)."
   - **Jun 28 - Jul 1**: I'll be at [Sunbelt](https://www.insna.org/events/sunbelt-2023) (the INSNA annual meetings), where Paulina Erices-Ocampo will be presenting some of our new work (also w/ Miranda Lubbers) on social capital.
   - **May 15-17**: I'll be contributing to the Networks & Health [workshop](https://sites.duke.edu/dnac/training/) at the Duke Network Analysis Center.
   - **May 7-10**: I gave a talk at the MIWI [Summer Institute](https://sph.umich.edu/mental-physical-health-training/) at the University of Michigan.
@@ -19,7 +20,6 @@ recent updates & upcoming talks
   - **Sep 29 - Oct 1**: I conducted a seminar on [Introduction to Social Network Analysis](https://statisticalhorizons.com/seminars/introduction-to-social-network-analysis3/) through Statistical Horizons.
   - **Sep 27**: Andrea Vest Ettekal & I posted a [pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4231406) of a forthcoming chapter on social network analysis applications in developmental science at SSRN.
   - **Sep 12**: Miranda Lubbers & I posted a [pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4216936) of a forthcoming chapter on social network data collection at SSRN.
-  - **Aug 12-13**: I attended (& nominally helped co-organize) a workshop at CU-Boulder on "[Contagion: on Complex Social Systems](https://www.colorado.edu/amath/caccss2022)."
   - **Jul 31**: I was promoted to full Professor; I also added a courtesy affiliation with the [Department of Mathematical & Statistical Sciences](https://clas.ucdenver.edu/mathematical-and-statistical-sciences/).
   - **2021**: We launched a new Book Reviews section at the *[Journal of Social Structure](https://sciendo.com/journal/JOSS)*! I am serving as the inaugural Book Review Editor, so please send suggestions my way.
 <!--  - **Feb 9**: Our next book (w/ Ryan Light) is under contract w/ Columbia University Press! -->
