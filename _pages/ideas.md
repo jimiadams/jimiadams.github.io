@@ -20,6 +20,7 @@ Early stages of this project were supported by a seed grant from the Robert Wood
 ______
 **Related publications**:
 
+  -  **jimi adams** & Kate Vinita Fitch. 2023. "Whose Social Capital? Visualizing Citation \& Co-Citation Patterns of a Fragmented Concept." *Socius* 9:. ([code](https://github.com/jimiadams/SocialCapital-Viz))
   - **jimi adams**, Ryan Light, & Nicholas Theis (1st two authors contributed equally). 2020. "[Mobilizing COVIID-19 Research](https://jimiadams.github.io/Contexts_PubMed/)." *Contexts* 19(4): 36-41. ([code](https://github.com/jimiadams/Contexts_PubMed))
     - preliminary blog version: "[What Role Does Collaboration across Disciplines have in Responding to COVID-19](https://contexts.org/blog/education-under-covid-19/#light)?'' ([preprint](https://osf.io/jqwyr) & [code](https://github.com/jimiadams/COVID_PubMed_Public))
   - Ryan Light & **jimi adams**. 2016. "[Knowledge in Motion: The Evolution of HIV/AIDS Research](../files/2016_SciM.pdf)." *Scientometrics* 107(3): 1227-1248.
