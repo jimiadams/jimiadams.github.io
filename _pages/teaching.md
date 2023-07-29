@@ -9,7 +9,7 @@ For office hours, or to sign up for an appointment, please use my [Calendly](htt
 
 ### Current Courses 
 (fall 2023)
-  - UNHL 3999, **How to Science** - This honors seminar in the multidisciplinary science of science focuses separately on (1) what science is, (2) how science is done, and (3) science communication. *Syllabus*: [2021F](../files/2021F_UNHL3999_syllabus.pdf).
+  - UNHL 3999, **How to Science** - This honors seminar in the multidisciplinary science of science focuses separately on (1) what science is, (2) how science is done, and (3) science communication. [*Syllabus*](../files/2021F_UNHL3999_syllabus.pdf).
   - HBSC 7011, **Theoretical Perspectives in Health & Behavioral Sciences** - This course focuses on a range of theoretical aspects from across the social sciences that are foundational to population health. [*Syllabus*](../files/2021F_HBSC7011_syllabus.pdf)
 
 ### Previous Courses
