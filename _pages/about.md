@@ -12,7 +12,7 @@ recent updates & upcoming talks
 ------
   - **Jan 2024**: Beginning next spring, I will be a Professor in the department of [Sociology](https://sc.edu/study/colleges_schools/artsandsciences/sociology/) at the University of South Carolina.
   - **Oct 20-22**: I'll be at the [annual meetings](https://sssreligion.org/annual-meeting/meeting-info/) of the Society for the Scientific Study of Religion, where El Brush will be presenting some of our new work (also w/ Jen Boylan) on religious mosaics & chronic health conditions.
-  - **Aug 14-16**: I'll be attending (& nominally am helping co-organize) a workshop at Vermont addressing "[Contagion: on Complex Social Systems](https://ccss-conference.github.io/)."
+  - **Aug 14-16**: I attended (& nominally helped co-organize) a workshop at Vermont addressing "[Contagion: on Complex Social Systems](https://ccss-conference.github.io/)."
   - **Jul 17**: We (along w/ former student Kate Vinita Fitch) have a new [visualization](https://journals.sagepub.com/doi/10.1177/23780231231184766) out in *Socius* illustrating the fragmentation in scholarship on social capital.
   - **Jun 28 - Jul 1**: I'll be at [Sunbelt](https://www.insna.org/events/sunbelt-2023) (the INSNA annual meetings), where Paulina Erices-Ocampo will be presenting some of our new work (also w/ Miranda Lubbers) on social capital.
   - **Jun 14**: I was interviewed by Francisca Ortiz for an episode on the [Knitting Networks podcast](https://podcasters.spotify.com/pod/tejiendoredes) about a variety of things networks. I had fun thinking & reflecting with the questions.
