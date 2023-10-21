@@ -10,19 +10,18 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
-  - **Jan 2024**: Beginning next spring, I will be a Professor in the department of [Sociology](https://sc.edu/study/colleges_schools/artsandsciences/sociology/) at the University of South Carolina.
-  - **Oct 20-22**: I'll be at the [annual meetings](https://sssreligion.org/annual-meeting/meeting-info/) of the Society for the Scientific Study of Religion, where El Brush will be presenting some of our new work (also w/ Jen Boylan) on religious mosaics & chronic health conditions.
-  - **Sep 18**: Our recent [paper](https://doi.org/10.1017/nws.2023.18) (w/ Michał Bojanowski) on NBA trades is posted in *Network Science*.
+  - **Jan 2024**: Beginning this spring, I will be a Professor in the department of [Sociology](https://sc.edu/study/colleges_schools/artsandsciences/sociology/) at the University of South Carolina.
+  - **Oct 21**: A [paper](https://www.sciencedirect.com/journal/social-networks/articles-in-press) led by former student Kate Fitch, also w/ Molly Copeland, is now published at *Social Networks*. This paper echoes my own first publication in estimating romantic partner reporting agreement, also examining its predictors.
+  - **Oct 20**: Miranda Lubbers & I have a new chapter on social network data collection in the 2nd edition of the [Sage Handbook of SNA](https://us.sagepub.com/en-us/nam/the-sage-handbook-of-social-network-analysis/book277881); here's a [preprint version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4216936).
+  - **Oct 20-22**: I was at the [annual meetings](https://sssreligion.org/annual-meeting/meeting-info/) of the Society for the Scientific Study of Religion, where El Brush presented some of our new work (also w/ Jen Boylan) on religious mosaics & chronic health conditions.
+  - **Sep 18**: Our recent [paper](https://doi.org/10.1017/nws.2023.18) (w/ Michał Bojanowski) on NBA trades is now published in *Network Science*.
   - **Aug 14-16**: I attended (& nominally helped co-organize) a workshop at Vermont addressing "[Contagion: on Complex Social Systems](https://ccss-conference.github.io/)."
   - **Jul 17**: We (along w/ former student Kate Vinita Fitch) have a new [visualization](https://journals.sagepub.com/doi/10.1177/23780231231184766) out in *Socius* illustrating the fragmentation in scholarship on social capital.
   - **Jun 28 - Jul 1**: At [Sunbelt](https://www.insna.org/events/sunbelt-2023) (the INSNA annual meetings), Paulina Erices-Ocampo presented some of our new work (also w/ Miranda Lubbers) on social capital.
   - **Jun 14**: I was interviewed by Francisca Ortiz for an episode on the [Knitting Networks podcast](https://podcasters.spotify.com/pod/tejiendoredes) about a variety of things networks. I had fun thinking & reflecting with the questions.
-  - **May 15-17**: I'll be contributing to the Networks & Health [workshop](https://sites.duke.edu/dnac/training/) at the Duke Network Analysis Center.
+  - **May 15-17**: I contributed a talk on network data collection methods to the Networks & Health [workshop](https://sites.duke.edu/dnac/training/) at the Duke Network Analysis Center.
   - **May 7-10**: I gave a talk at the MIWI [Summer Institute](https://sph.umich.edu/mental-physical-health-training/) at the University of Michigan.
   - **Jan 20**: Nicholas Landry and I have a new [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279345) in *PLoS One* on diffusion modeling in multiplex networks. (Here's a [talk version](https://www.youtube.com/watch?v=YsaqWh2elCY&list=PLRaIxt5IVIe5lffzBxiuEROOl43pi-twP) or [pre-print](https://arxiv.org/abs/2204.12348#) of the same work.)
-  - **Sep 29 - Oct 1**: I conducted a seminar on [Introduction to Social Network Analysis](https://statisticalhorizons.com/seminars/introduction-to-social-network-analysis3/) through Statistical Horizons.
-  - **Sep 27**: Andrea Vest Ettekal & I posted a [pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4231406) of a forthcoming chapter on social network analysis applications in developmental science at SSRN.
-  - **Sep 12**: Miranda Lubbers & I posted a [pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4216936) of a forthcoming chapter on social network data collection at SSRN.
   - **2021**: We launched a new Book Reviews section at the *[Journal of Social Structure](https://sciendo.com/journal/JOSS)*! I am serving as the inaugural Book Review Editor, so please send suggestions my way.
 <!--  - **Feb 9**: Our next book (w/ Ryan Light) is under contract w/ Columbia University Press! -->
 
