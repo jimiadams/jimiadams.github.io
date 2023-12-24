@@ -11,6 +11,7 @@ redirect_from:
 recent updates & upcoming talks
 ------
   - **Jan 2024**: Beginning this spring, I will be a Professor in the department of [Sociology](https://sc.edu/study/colleges_schools/artsandsciences/sociology/) at the University of South Carolina.
+  - **Dec 23**: My [review](https://journals.sagepub.com/doi/10.1177/00943061231214609o) of *Text as Data* is now available in *Contemporary Sociology*.
   - **Oct 21**: A [paper](https://www.sciencedirect.com/science/article/pii/S0378873323000667?via%3Dihub) led by former student Kate Fitch, also w/ Molly Copeland, is now published at *Social Networks*. This paper echoes my own first publication in estimating romantic partner reporting agreement, also examining its predictors.
   - **Oct 20**: Miranda Lubbers & I have a new chapter on social network data collection in the 2nd edition of the [Sage Handbook of SNA](https://us.sagepub.com/en-us/nam/the-sage-handbook-of-social-network-analysis/book277881); here's a [preprint version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4216936).
   - **Oct 20-22**: I was at the [annual meetings](https://sssreligion.org/annual-meeting/meeting-info/) of the Society for the Scientific Study of Religion, where El Brush presented some of our new work (also w/ Jen Boylan) on religious mosaics & chronic health conditions.
