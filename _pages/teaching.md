@@ -8,16 +8,16 @@ For office hours, or to sign up for an appointment, please use my [Calendly](htt
 ( skip to: [undergraduate](#undergraduate) | [graduate](#graduate) | [workshops](#workshops) | [publications](#related-publications) )
 
 ### Current Courses 
-(fall 2023)
-  - UNHL 3999, **How to Science** - This honors seminar in the multidisciplinary science of science focuses separately on (1) what science is, (2) how science is done, and (3) science communication. [*Syllabus*](../files/2021F_UNHL3999_syllabus.pdf).
-  - HBSC 7011, **Theoretical Perspectives in Health & Behavioral Sciences** - This course focuses on a range of theoretical aspects from across the social sciences that are foundational to population health. [*Syllabus*](../files/2021F_HBSC7011_syllabus.pdf)
+(spring 2024)
+  - SOCY 360, **Sociology of Medicine & Health** - This elective addresses structural dimensions of health and health care, with a focus on barriers to health equity. [*Syllabus* (forthcoming)](): 2024S.
+  - SOCY 398H, **Diffusion: How things Spread** - This honors seminar will be a more sociological update on my previous social epidemiology version of examining contagion and diffusion processes. [*Syllabus* (forthcoming)](): 2024S.
 
 ### Previous Courses
 _____
 ### Undergraduate
 #### CU-Denver
   - PBHL 3999, **Diffusion: How Things Spread** - This elective explores how diseases and behaviors spread through a population. My first time offering it happened to coincide with the onset of the COVID-19 pandemic; in 2023 I offered it virtually. [*Syllabus*](../files/2023S_PBHL3999_syllabus.pdf): 2023S, 2020S.
-  - UNHL 3999, **How to Science** - This honors seminar in the multidisciplinary science of science focused separately on (1) what science is, (2) how science is done, and (3) science communication. [*Syllabus*](../files/2021F_UNHL3999_syllabus.pdf): 2021F.
+  - UNHL 3615, **How to Science** - This honors seminar in the multidisciplinary science of science focused separately on (1) what science is, (2) how science is done, and (3) science communication. [*Syllabus*](../files/2021F_UNHL3999_syllabus.pdf): 2023F, 2021F.
   - PBHL 4040, **Social Determinants of Health** - This senior-level course serves as the theoretical core of our undergraduate Public Health major, focusing on multiple  bases of population health inequalities. [*Syllabus*](../files/2022S_PBHL4040_syllabus.pdf): 2022S, 2020S, 2017S, 2016S.
   - PBHL 4099, **Capstone Experience in Public Health** - This is a problem-based, student led capstone for our Public Health majors. [*Syllabus*](../files/2022S_PBHL4099_syllabus.pdf) 2022S, 2019S, 2017F, 2016S, 2014F.
 
@@ -34,7 +34,7 @@ _____
 _____
 ### Graduate
 #### CU-Denver
-  - HBSC 7011, **Theoretical Perspectives in Health & Behavioral Sciences** - This course focuses on a range of theoretical aspects from across the social sciences that are foundational to population health. [*Syllabus*](../files/2021F_HBSC7011_syllabus.pdf): 2021F, 2019F, 2017F
+  - HBSC 7011, **Theoretical Perspectives in Health & Behavioral Sciences** - This course focuses on a range of theoretical aspects from across the social sciences that are foundational to population health. [*Syllabus*](../files/2021F_HBSC7011_syllabus.pdf): 2023F, 2021F, 2019F, 2017F
   - HBSC 7041, **Research Design** - I sought to focus on the principles of research design, while also introducing the practicalities, rather than the other way around. [*Syllabus*](../files/2023S_HBSC7041_syllabus.pdf): 2023S, 2019S
   - HBSC 7071, **Social and Behavioral Determinants of Health** - This seminar aims to introduce a broad range of theoretical and empirical perspectives represented in the field of population health. [*Syllabus*](../files/2014F_HBSC7071_syllabus.pdf): 2014F
   - HBSC 7111, **Applications of Health & Behavioral Sciences** - This serves as a capstone course, which is mostly student-led, culminating in a draft of their dissertation proposals. [*Syllabus*](../files/2017S_HBSC7111_syllabus.pdf): 2017S
