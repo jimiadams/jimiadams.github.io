@@ -9,8 +9,8 @@ For office hours, or to sign up for an appointment, please use my [Calendly](htt
 
 ### Current Courses 
 (spring 2024)
-  - SOCY 360, **Sociology of Medicine & Health** - This elective addresses structural dimensions of health and health care, with a focus on barriers to health equity. [*Syllabus* (forthcoming)](): 2024S.
-  - SOCY 398H, **Diffusion: How things Spread** - This honors seminar will be a more sociological update on my previous social epidemiology version of examining contagion and diffusion processes. [*Syllabus* (forthcoming)](): 2024S.
+  - SOCY 360, **Sociology of Medicine & Health** - This elective addresses structural dimensions of health and health care, with a focus on barriers to health equity. [*Syllabus*](../files/2024_Socy360_syllabus.pdf): 2024S.
+  - SOCY 398H, **Diffusion: How things Spread** - This honors seminar will be a more sociological update on my previous social epidemiology version of examining contagion and diffusion processes. [*Syllabus*](../files/2024_Socy398_syllabus.pdf): 2024S.
 
 ### Previous Courses
 _____
