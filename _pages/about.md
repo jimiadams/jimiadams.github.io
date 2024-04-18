@@ -10,6 +10,7 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
+  - **Apr 18**: A recorded video "tutorial" on ethical considerations in network-based research is [now live](https://methods.sagepub.com/video/ethical-considerations-for-networks-based-research) in Sage's Research Methods series.
   - **Mar 9**: My [review](http://dx.doi.org/10.1111/jssr.12894) of *Religion Virtues & Health* is now available in the *Journal for the Scientific Study of Religion*.
   - **Jan 2024**: As of this spring, I am now a Professor in the department of [Sociology](https://sc.edu/study/colleges_schools/artsandsciences/sociology/) at the University of South Carolina.
   - **Dec 23**: My [review](https://journals.sagepub.com/doi/10.1177/00943061231214609o) of *Text as Data* is now available in *Contemporary Sociology*.
