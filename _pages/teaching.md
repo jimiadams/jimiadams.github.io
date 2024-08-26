@@ -7,14 +7,17 @@ author_profile: true
 For office hours, or to sign up for an appointment, please use my [Calendly](https://calendly.com/jimiadams).<br>
 ( skip to: [undergraduate](#undergraduate) | [graduate](#graduate) | [workshops](#workshops) | [publications](#related-publications) )
 
-### Current Courses 
-(spring 2024)
-  - SOCY 360, **Sociology of Medicine & Health** - This elective addresses structural dimensions of health and health care, with a focus on barriers to health equity. [*Syllabus*](../files/2024_Socy360_syllabus.pdf): 2024S.
-  - SOCY 398H, **Diffusion: How things Spread** - This honors seminar will be a more sociological update on my previous social epidemiology version of examining contagion and diffusion processes. [*Syllabus*](../files/2024_Socy398_syllabus.pdf): 2024S.
+### Current Course 
+(fall 2024)
+  - SOCY 360, **Real World Research Experience in Sociology** - This "practicum" serves as a sort of capstone experience for sociology majors, providing an opportunity for hands on research experience. [*Syllabus*](../files/2024_Socy561_syllabus.pdf): 2024S.
 
 ### Previous Courses
 _____
 ### Undergraduate
+#### South Carolina
+  - SOCY 360, **Sociology of Medicine & Health** - This elective addressed structural dimensions of health and health care, with a focus on barriers to health equity. [*Syllabus*](../files/2024_Socy360_syllabus.pdf): 2024S.
+  - SOCY 398H, **Diffusion: How things Spread** - This honors seminar will be a more sociological update on my previous social epidemiology version of examining contagion and diffusion processes. [*Syllabus*](../files/2024_Socy398_syllabus.pdf): 2024S.
+
 #### CU-Denver
   - PBHL 3999, **Diffusion: How Things Spread** - This elective explores how diseases and behaviors spread through a population. My first time offering it happened to coincide with the onset of the COVID-19 pandemic; in 2023 I offered it virtually. [*Syllabus*](../files/2023S_PBHL3999_syllabus.pdf): 2023S, 2020S.
   - UNHL 3615, **How to Science** - This honors seminar in the multidisciplinary science of science focused separately on (1) what science is, (2) how science is done, and (3) science communication. [*Syllabus*](../files/2021F_UNHL3999_syllabus.pdf): 2023F, 2021F.
