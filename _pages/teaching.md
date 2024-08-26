@@ -9,7 +9,7 @@ For office hours, or to sign up for an appointment, please use my [Calendly](htt
 
 ### Current Course 
 (fall 2024)
-  - SOCY 360, **Real World Research Experience in Sociology** - This "practicum" serves as a sort of capstone experience for sociology majors, providing an opportunity for hands on research experience. [*Syllabus*](../files/2024_Socy561_syllabus.pdf): 2024S.
+  - SOCY 360, **Real World Research Experience in Sociology** - This "practicum" serves as a sort of capstone experience for sociology majors, providing an opportunity for hands on research experience. [*Syllabus*](../files/2024F_Socy561_syllabus.pdf): 2024S.
 
 ### Previous Courses
 _____
