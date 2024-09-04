@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+Before it essentially led me to relatively full [burnout](https://jimi-adams.medium.com/whos-that-man-in-the-mirror-3e4ac1994111) in 2021, I spent a fair amount of time over about 18 months heavily involved in Covid-19 responses in various capacities. This is an overview of some of that work.
 
 ### INSNA Satellite Conference
 Along with [David Lazer](https://cssh.northeastern.edu/faculty/david-lazer/), I organized a satellite conference alongside the annual INSNA (social network) meetings, which ran online July 20-22. About half of the talks are available linked from the [conference program](https://www.insna.org/covid-19-satellite-of-sunbelt).
