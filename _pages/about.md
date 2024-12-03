@@ -19,8 +19,6 @@ recent updates & upcoming talks
   - **Oct 21**: A [paper](https://www.sciencedirect.com/science/article/pii/S0378873323000667?via%3Dihub) led by former student Kate Fitch, also w/ Molly Copeland, is now published at *Social Networks*. This paper echoes my own first publication in estimating romantic partner reporting agreement, also examining its predictors.
   - **Oct 20**: Miranda Lubbers & I have a  chapter on social network data collection in the 2nd edition of the [Sage Handbook of SNA](https://us.sagepub.com/en-us/nam/the-sage-handbook-of-social-network-analysis/book277881); here's a [preprint version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4216936).
   - **Sep 18**: Our [paper](https://doi.org/10.1017/nws.2023.18) (w/ Michał Bojanowski) on NBA trades is now published in *Network Science*.
-  - **Aug 14-16**: I attended (& nominally helped co-organize) a workshop at Vermont addressing "[Contagion: on Complex Social Systems](https://ccss-conference.github.io/)."
-  - **2021**: We launched a new Book Reviews section at the *[Journal of Social Structure](https://sciendo.com/journal/JOSS)*! I am serving as the inaugural Book Review Editor, so please send suggestions my way.
 
 about me
 ------
