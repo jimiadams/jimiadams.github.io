@@ -10,6 +10,7 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
+  - **Dec 3**: We (along w/ Paulina Erices-Ocampo & Miranda Lubbers) posted a [preprint](https://osf.io/preprints/socarxiv/p9na4) version of our paper on reconceptualizing social capital that is forthocming in the *Annual Review of Sociology*. 
   - **May 14**: I gave a [talk](https://www.youtube.com/watch?v=0IZvJYUgl0g) at Duke's [Networks & Health Workshop](https://sites.duke.edu/dnac/training/) on modalities of gathering social network data.
   - **Apr 18**: A recorded video tutorial on ethical considerations in network-based research is [now live](https://methods.sagepub.com/video/ethical-considerations-for-networks-based-research) in Sage's Research Methods series.
   - **Mar 9**: My [review](http://dx.doi.org/10.1111/jssr.12894) of *Religion Virtues & Health* is now available in the *Journal for the Scientific Study of Religion*.
