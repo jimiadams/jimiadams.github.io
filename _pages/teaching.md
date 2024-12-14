@@ -18,7 +18,7 @@ _____
 ### Undergraduate
 #### South Carolina
   - SOCY 360, **Sociology of Medicine & Health** - This elective addressed structural dimensions of health and health care, with a focus on barriers to health equity. [*Syllabus*](../files/2024_Socy360_syllabus.pdf): 2024S.
-  - SOCY 398H, **Diffusion: How things Spread** - This honors seminar will be a more sociological update on my previous social epidemiology version of examining contagion and diffusion processes. [*Syllabus*](../files/2024_Socy398_syllabus.pdf): 2024S.
+  - SOCY 398H, **Diffusion: How things Spread** - This seminar was a more sociological update on my previous social epidemiology version of examining contagion and diffusion processes. [*Syllabus*](../files/2024_Socy398_syllabus.pdf): 2024S.
   - SOCY 561, **Real World Research Experience in Sociology** - This "practicum" serves as a sort of capstone experience for sociology majors, providing an opportunity for hands on research experience. [*Syllabus*](../files/2024F_Socy561_syllabus.pdf): 2024F.
 
 
