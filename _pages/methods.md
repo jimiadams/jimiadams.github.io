@@ -16,6 +16,7 @@ One of my favorite previous projects in this vein outside of data collection/eva
 ______
 **Related publications**:
 
+  - Dana K Pasquale, Tom Wolff, Gabriel Varela, \underline{jimi adams}, Peter Mucha, Brea L Perry, Thomas W. Valente, & James Moody. 2025. "[Considerations for Health and Social Networks Data Sharing: An Overview.](https://www.sciencedirect.com/science/article/pii/S1047279724002862)" *Annals of Epidemiology* 102: 28-35.
   - **jimi adams** & Miranda J. Lubbers. 2023. "Social Network Data Collection: Principles and Modalities." Chapter 40 in *SAGE Handbook of Social Network Analysis*, 2nd Edition edited by John McLevey, Peter Carrington, & John Scott. ([preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4216936))
   - **jimi adams**, Tatiane Santos, & Venice Ng Williams. 2020. "[Strategies for Collecting Social Network Data: Overview, Assessment, and Ethics](https://osf.io/preprints/socarxiv/zgawf/)." Chapter 7 in *The Oxford Handbook of Social Networks*, edited by Ryan Light & James Moody. Oxford University Press. ([book](https://global.oup.com/academic/product/the-oxford-handbook-of-social-networks-9780190251765))
   - **jimi adams**. 2019. *[Gathering Social Network Data](https://us.sagepub.com/en-us/nam/gathering-social-network-data/book260973)*. SAGE, Quantitative Applications in the Social Sciences Series #180.
