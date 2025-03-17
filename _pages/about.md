@@ -10,8 +10,8 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
+  - **Mar 17**: Our (along w/ Paulina Erices-Ocampo & Miranda Lubbers) [paper](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090924-032037) on reconceptualizing social capital that is now live at the *Annual Review of Sociology*, here's a  [preprint](https://osf.io/preprints/socarxiv/p9na4), until the issue is OA. 
   - **Dec 30**: A [commentary](https://www.sciencedirect.com/science/article/pii/S1047279724002862) (led by Dana Pasquale, with a number of other collaborators) on data sharing for networks and health data is now posted at *Annals of Epidemiology*. 
-  - **Dec 3**: We (along w/ Paulina Erices-Ocampo & Miranda Lubbers) posted a [preprint](https://osf.io/preprints/socarxiv/p9na4) version of our paper on reconceptualizing social capital that is forthocming in the *Annual Review of Sociology*. 
   - **May 14**: I gave a [talk](https://www.youtube.com/watch?v=0IZvJYUgl0g) at Duke's [Networks & Health Workshop](https://sites.duke.edu/dnac/training/) on modalities of gathering social network data.
   - **Apr 18**: A recorded video tutorial on ethical considerations in network-based research is [now live](https://methods.sagepub.com/video/ethical-considerations-for-networks-based-research) in Sage's Research Methods series.
   - **Jan 2024**: As of this spring, I am now a Professor in the department of [Sociology](https://sc.edu/study/colleges_schools/artsandsciences/sociology/) at the University of South Carolina.
