@@ -8,10 +8,10 @@ For office hours, or to sign up for an appointment, please use my [Calendly](htt
 ( skip to: [undergraduate](#undergraduate) | [graduate](#graduate) | [workshops](#workshops) | [publications](#related-publications) )
 
 ### Current Courses
-(spring 2025)
+(fall 2025)
 
-  - SOCY 732, **Inferential Network Analysis** - A "second" course in SNA, focused on modeling frameworks for networks' causes and effects. [*Syllabus*](../files/2025S_Socy732_syllabus.pdf).
-  - SOCY 561, **Real World Research Experience in Sociology** - This "practicum" serves as a sort of capstone experience for sociology majors, providing an opportunity for hands on research experience. [*Syllabus*](../files/2025S_Socy561_syllabus.pdf).
+  - SOCY 308, **Social Organization** - This course will address how organizations have been studied, focusing on theories of their formal and informal structure. [*Syllabus*] (forthcoming).
+  - SOCY 598/721, **Data Vizualization** - This graduate seminar will address theoretical, computational, and emipirical dimensions of visualizing social science data -- ranging from exploratory data analysis and theoretical conceptualizations, to presenting empirical/modeling results. We'll primarily work in R. [*Syllabus*] (forthcoming).
 
 ### Previous Courses
 _____
@@ -19,7 +19,7 @@ _____
 #### South Carolina
   - SOCY 360, **Sociology of Medicine & Health** - This elective addressed structural dimensions of health and health care, with a focus on barriers to health equity. [*Syllabus*](../files/2024_Socy360_syllabus.pdf): 2024S.
   - SOCY 398H, **Diffusion: How things Spread** - This seminar was a more sociological update on my previous social epidemiology version of examining contagion and diffusion processes. [*Syllabus*](../files/2024_Socy398_syllabus.pdf): 2024S.
-  - SOCY 561, **Real World Research Experience in Sociology** - This "practicum" serves as a sort of capstone experience for sociology majors, providing an opportunity for hands on research experience. [*Syllabus*](../files/2024F_Socy561_syllabus.pdf): 2024F.
+  - SOCY 561, **Real World Research Experience in Sociology** - This "practicum" serves as a sort of capstone experience for sociology majors, providing an opportunity for hands on research experience. [*Syllabus*](../files/2024F_Socy561_syllabus.pdf): 2024F, 2025S.
 
 
 #### CU-Denver
@@ -36,10 +36,13 @@ _____
 
 #### Arizona State University
   - SOC 101H, **Honors Intro Sociology** - These honors sections of intro to sociology were organized seminar style from primary monographs. *Syllabi*: [2011F](../files/2011F_SOC101_syllabus.pdf), [2010F](../files/2010F_SOC101_syllabus.pdf)
-  - SOC/FAS 294, **Intro to Social Networks** - This was a larger, lecture-based version of an introduction to the key ideas in social network scholarship. [Syllabus](../files/2011F_SOC294_syllabus.pdf): 2011F, 2010S, 2009F
+  - SOC/FAS 294, **Intro to Social Networks** - This was a larger, lecture-based version of an introduction to the key ideas in social network scholarship. [*Syllabus*](../files/2011F_SOC294_syllabus.pdf): 2011F, 2010S, 2009F
   
 _____
 ### Graduate
+#### South Carolina
+  - SOCY 732, **Inferential Network Analysis** - A "second" course in SNA, focused on modeling frameworks for networks' causes and effects. [*Syllabus*](../files/2025S_Socy732_syllabus.pdf): 2025S
+  
 #### CU-Denver
   - HBSC 7011, **Theoretical Perspectives in Health & Behavioral Sciences** - This course focuses on a range of theoretical aspects from across the social sciences that are foundational to population health. [*Syllabus*](../files/2021F_HBSC7011_syllabus.pdf): 2023F, 2021F, 2019F, 2017F
   - HBSC 7041, **Research Design** - I sought to focus on the principles of research design, while also introducing the practicalities, rather than the other way around. [*Syllabus*](../files/2023S_HBSC7041_syllabus.pdf): 2023S, 2019S
