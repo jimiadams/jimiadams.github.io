@@ -10,8 +10,8 @@ For office hours, or to sign up for an appointment, please use my [Calendly](htt
 ### Current Courses
 (fall 2025)
 
-  - SOCY 308, **Social Organization** - This course will address how organizations have been studied, focusing on theories of their formal and informal structure. [*Syllabus*](../files/2024_Socy308_syllabus.pdf).
-  - SOCY 598/721, **Data Vizualization** - This graduate seminar will address theoretical, computational, and emipirical dimensions of visualizing social science data -- ranging from exploratory data analysis and theoretical conceptualizations, to presenting empirical/modeling results. We'll primarily work in R. [*Syllabus*](../files/2024_Socy721_syllabus.pdf).
+  - SOCY 308, **Social Organization** - This course will address how organizations have been studied, focusing on theories of their formal and informal structure. [*Syllabus*](../files/2025_Soc308_syllabus.pdf).
+  - SOCY 598/721, **Data Vizualization** - This graduate seminar will address theoretical, computational, and emipirical dimensions of visualizing social science data -- ranging from exploratory data analysis and theoretical conceptualizations, to presenting empirical/modeling results. We'll primarily work in R. [*Syllabus*](../files/2025_Soc721_syllabus.pdf).
 
 ### Previous Courses
 _____
