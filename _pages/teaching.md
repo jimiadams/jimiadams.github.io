@@ -8,15 +8,15 @@ For office hours, or to sign up for an appointment, please use my [Calendly](htt
 ( skip to: [undergraduate](#undergraduate) | [graduate](#graduate) | [workshops](#workshops) | [publications](#related-publications) )
 
 ### Current Courses
-(fall 2025)
-
-  - SOCY 308, **Social Organization** - This course will address how organizations have been studied, focusing on theories of their formal and informal structure. [*Syllabus*](../files/2025_Soc308_syllabus.pdf).
-  - SOCY 598/721, **Data Vizualization** - This graduate seminar will address theoretical, computational, and emipirical dimensions of visualizing social science data -- ranging from exploratory data analysis and theoretical conceptualizations, to presenting empirical/modeling results. We'll primarily work in R. [*Syllabus*](../files/2025_Soc721_syllabus.pdf).
+(spring 2026)
+  - SOCY 398H, **Diffusion: How things Spread** - We'll take a look at a variety of perspectives on how things spread - from diseases to (mis-)information; simple to complex. [*Syllabus forthcoming*]().
+  - SOCY 550, **Sociology of Science** - This seminar explores how scientists have studied scientists and the practice of science, to better understand why science works the way it does, is structured the way it is, and why those questions matter. [*Syllabus forthcoming*]().
 
 ### Previous Courses
 _____
 ### Undergraduate
 #### South Carolina
+  - SOCY 308, **Social Organization** - This course addressed how organizations have been studied, focusing on theories of their formal and informal structure. [*Syllabus*](../files/2025_Soc308_syllabus.pdf): 2025S.
   - SOCY 360, **Sociology of Medicine & Health** - This elective addressed structural dimensions of health and health care, with a focus on barriers to health equity. [*Syllabus*](../files/2024_Socy360_syllabus.pdf): 2024S.
   - SOCY 398H, **Diffusion: How things Spread** - This seminar was a more sociological update on my previous social epidemiology version of examining contagion and diffusion processes. [*Syllabus*](../files/2024_Socy398_syllabus.pdf): 2024S.
   - SOCY 561, **Real World Research Experience in Sociology** - This "practicum" serves as a sort of capstone experience for sociology majors, providing an opportunity for hands on research experience. [*Syllabus*](../files/2024F_Socy561_syllabus.pdf): 2024F, 2025S.
@@ -42,6 +42,7 @@ _____
 ### Graduate
 #### South Carolina
   - SOCY 732, **Inferential Network Analysis** - A "second" course in SNA, focused on modeling frameworks for networks' causes and effects. [*Syllabus*](../files/2025S_Socy732_syllabus.pdf): 2025S
+    - SOCY 598/721, **Data Vizualization** - This graduate seminar addressed theoretical, computational, and emipirical dimensions of visualizing social science data -- ranging from exploratory data analysis and theoretical conceptualizations, to presenting empirical/modeling results, w/ some R tutorials. [*Syllabus*](../files/2025_Soc721_syllabus.pdf): 2025F
   
 #### CU-Denver
   - HBSC 7011, **Theoretical Perspectives in Health & Behavioral Sciences** - This course focuses on a range of theoretical aspects from across the social sciences that are foundational to population health. [*Syllabus*](../files/2021F_HBSC7011_syllabus.pdf): 2023F, 2021F, 2019F, 2017F
