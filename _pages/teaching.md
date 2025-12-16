@@ -10,7 +10,7 @@ For office hours, or to sign up for an appointment, please use my [Calendly](htt
 ### Current Courses
 (spring 2026)
   - SOCY 398H, **Diffusion: How things Spread** - We'll take a look at a variety of perspectives on how things spread - from diseases to (mis-)information; simple to complex. [*Syllabus forthcoming*]().
-  - SOCY 550, **Sociology of Science** - This seminar explores how scientists have studied scientists and the practice of science, to better understand why science works the way it does, is structured the way it is, and why those questions matter. [*Syllabus forthcoming*]().
+  - SOCY 550, **Sociology of Science** - This seminar explores how scientists have themselves, to better understand why science works the way it does, is structured the way it is, and why those questions matter. [*Syllabus forthcoming*]().
 
 ### Previous Courses
 _____
