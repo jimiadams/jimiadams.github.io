@@ -42,7 +42,7 @@ _____
 ### Graduate
 #### South Carolina
   - SOCY 732, **Inferential Network Analysis** - A "second" course in SNA, focused on modeling frameworks for networks' causes and effects. [*Syllabus*](../files/2025S_Socy732_syllabus.pdf): 2025S
-    - SOCY 598/721, **Data Vizualization** - This graduate seminar addressed theoretical, computational, and emipirical dimensions of visualizing social science data -- ranging from exploratory data analysis and theoretical conceptualizations, to presenting empirical/modeling results, w/ some R tutorials. [*Syllabus*](../files/2025_Soc721_syllabus.pdf): 2025F
+  - SOCY 598/721, **Data Vizualization** - This graduate seminar addressed theoretical, computational, and emipirical dimensions of visualizing social science data -- ranging from exploratory data analysis and theoretical conceptualizations, to presenting empirical/modeling results, w/ some R tutorials. [*Syllabus*](../files/2025_Soc721_syllabus.pdf): 2025F
   
 #### CU-Denver
   - HBSC 7011, **Theoretical Perspectives in Health & Behavioral Sciences** - This course focuses on a range of theoretical aspects from across the social sciences that are foundational to population health. [*Syllabus*](../files/2021F_HBSC7011_syllabus.pdf): 2023F, 2021F, 2019F, 2017F
