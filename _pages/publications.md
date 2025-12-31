@@ -8,7 +8,8 @@ redirect_from:
 ---
 This is an incomplete sample of recent and/or key papers of mine. For a complete list, see my [CV](/cv/) or [Google Scholar page](https://scholar.google.com/citations?user=G-u6TvEAAAAJ). If you have difficulty locating a complete version of any of these, please email me for a copy. (+ notes mentored student)
 
-<!-- button order - data, code, preprint, book, doi -->
+<!-- button order: data, code, preprint, book, doi, misc -->
+
 | <!-- -->    | <!-- --> |
 | :-: | :------------ |
 |![](../images/Wiley.png){: width="75px" align="left"} | 2026. Andrea Vest Ettekal & **jimi adams**. “[Applications of Social Network Analysis in Developmental Science](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4231406).” Chapter 23 in Teti, Cleveland, & Rullison (eds.) *Handbook of Research Methods in Developmental Science*, 2nd Edition. Wiley. <br>  [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4231406){: .btn .btn--success .btn--small} [book](https://www.wiley.com/en-cn/Handbook+of+Research+Methods+in+Developmental+Science%2C+2nd+Edition-p-9781119880820){: .btn .btn--info .btn--small} [doi](https://dx.doi.org/10.2139/ssrn.4231406){: .btn .btn--inverse .btn--small}||
