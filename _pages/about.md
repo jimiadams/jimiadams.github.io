@@ -10,9 +10,9 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
-  - **Nov 14**: I gave a [talk](https://www.cpc.unc.edu/event/interdisciplinary-research-seminar-series-jimi-adams/) at the Carolina Population Center at UNC-Chapel Hill, from a joint project with Molly Copeland & Chris Marcum (on teends avoiding dating their friends' exes) that I'm attempting to revive.
-  - **Nov 11**: I gave a [webinar](https://www.intsocialcapital.org/event/toward-a-unified-conceptualization-of-social-capital/) at the International Social Capital Association from our *ARS* piece (see below).
-  - **Mar 17**: Our (along w/ Paulina Erices-Ocampo & Miranda Lubbers) [paper](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090924-032037) on reconceptualizing social capital is published (and Open Access) in the *Annual Review of Sociology*.
+  - **Nov 14, 2025**: I gave a [talk](https://www.cpc.unc.edu/event/interdisciplinary-research-seminar-series-jimi-adams/) at the Carolina Population Center at UNC-Chapel Hill, from a joint project with Molly Copeland & Chris Marcum (on teends avoiding dating their friends' exes) that I'm attempting to revive.
+  - **Nov 11, 2025**: I gave a [webinar](https://www.intsocialcapital.org/event/toward-a-unified-conceptualization-of-social-capital/) at the International Social Capital Association from our *ARS* piece (see below).
+  - **Mar 17, 2025**: Our (along w/ Paulina Erices-Ocampo & Miranda Lubbers) [paper](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090924-032037) on reconceptualizing social capital is published (and Open Access) in the *Annual Review of Sociology*.
   - **Dec 30, 2024**: A [commentary](https://www.sciencedirect.com/science/article/pii/S1047279724002862) (led by Dana Pasquale, with a number of other collaborators) on data sharing for networks and health data was published at *Annals of Epidemiology*. 
   - **May 14, 2024**: I gave a [talk](https://www.youtube.com/watch?v=0IZvJYUgl0g) at Duke's [Networks & Health Workshop](https://sites.duke.edu/dnac/training/) on modalities of gathering social network data.
   - **Apr 18, 2024**: A recorded video tutorial on ethical considerations in network-based research is [available](https://methods.sagepub.com/video/ethical-considerations-for-networks-based-research) in Sage's Research Methods series.
