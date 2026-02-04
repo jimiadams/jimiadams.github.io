@@ -72,7 +72,7 @@ While these courses represent some of my teaching interests, further course topi
 _____
 ### Related Publications
   - Andrea Vest Ettekal & **jimi adams**. 2026. "Applications of Social Network Analysis in Developmental
-Science." Chapter 23 in *Handbook of Research Methods in Developmental Science*, 2nd Edition. Wiley. edited by Teti DM, Cleveland HH, & Rullison KL. ([preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4231406))
+Science." Chapter 23 in *Handbook of Research Methods in Developmental Science*, 2nd Edition. edited by Teti DM, Cleveland HH, & Rullison KL. Wiley. ([preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4231406))
   - **jimi adams**† & Michał Bojanowski†. († authors contributed equally.) 2023. “[Do NBA Teams Avoid Trading Players within their Division?](https://doi.org/10.1017/nws.2023.18)” *Network Science* 11(4): 657-669.
   - **jimi adams**. 2019. *[Gathering Social Network Data](https://us.sagepub.com/en-us/nam/gathering-social-network-data/book260973)*. SAGE-QASS #180.
   - **jimi adams** & David R. Schaefer (equal co-authors). 2018. "[Visualizing Stochastic Actor-Based Model Microsteps](https://journals.sagepub.com/doi/10.1177/2378023118816545)." *Socius* 4:1-3. ([code](https://github.com/jimiadams/SABM-VIz))
