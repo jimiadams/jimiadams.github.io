@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "jimi adams"
 title_separator          : "-"
 name                     : &name "jimi adams"
-description              : &description "Professor, CU-Denver"
+description              : &description "Professor, South Carolina"
 url                      : https://jimiadams.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jimiadams/jimiadams.github.io"
@@ -102,7 +102,7 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  mastodon         : https://sciences.social/@jimiadams
+  mastodon         : # https://sciences.social/@jimiadams
   lastfm           :
   linkedin         :
   pinterest        :
