@@ -19,7 +19,7 @@ recent updates & upcoming talks
 
 about me
 ------
-In January 2024, I started a new position as Professor of [sociology](https://sc.edu/study/colleges_schools/artsandsciences/sociology/) at the **University of South Carolina**. Broadly, my research revolves around addressing how networks constrain or promote the diffusion of information and/or diseases through populations. This work falls into three primary buckets (described more [here](/projects/)): diffusion, the structure of scientific fields, and network methods. When I'm away from work, I'm likely on a bike somewhere, or hanging with my dogs (Zoë & Harley).
+In January 2024, I started a new position as Professor of [sociology](https://sc.edu/study/colleges_schools/artsandsciences/sociology/) at the **University of South Carolina**. Broadly, my research revolves around addressing how networks constrain or promote the diffusion of information and/or diseases through populations. This work falls into three primary [buckets](/projects/): health, the structure of scientific fields, and network methods. When I'm away from work, I'm likely on a bike somewhere, or hanging with my dogs (Zoë & Harley).
 
 I came to USC after nearly a decade in the [Department of Health and Behavioral Sciences](https://clas.ucdenver.edu/hbsc/) at the **University of Colorado Denver**, where I spent stints as the director of [Graduate Studies](https://clas.ucdenver.edu/hbsc/degree-programs/phd-program), and our [undergraduate programs in Public Health](https://clas.ucdenver.edu/hbsc/undergraduate-students). There, I was also an affiliate of the [Institute of Behavioral Science at CU-Boulder](https://ibs.colorado.edu/) and had a courtesy appointment in the Mathematics/Statistics department. 
 
