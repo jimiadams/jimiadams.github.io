@@ -16,7 +16,7 @@ For office hours, or to sign up for an appointment, please use my [Calendly](htt
 _____
 ### Undergraduate
 #### South Carolina
-  - SOCY 308, **Social Organization** - This course addressed how organizations have been studied, focusing on theories of their formal and informal structure. [*Syllabus*](../files/2025_Soc308_syllabus.pdf): 2025S.
+  - SOCY 308, **Social Organization** - This course addressed how organizations have been studied, focusing on theories of their formal and informal structure. [*Syllabus*](../files/2025_Soc308_syllabus.pdf): 2025F.
   - SOCY 360, **Sociology of Medicine & Health** - This elective addressed structural dimensions of health and health care, with a focus on barriers to health equity. [*Syllabus*](../files/2024_Socy360_syllabus.pdf): 2024S.
   - SOCY 398H, **Diffusion: How things Spread** - This seminar was a more sociological update on my previous social epidemiology version of examining contagion and diffusion processes. [*Syllabus*](../files/2024_Socy398_syllabus.pdf): 2024S.
   - SOCY 561, **Real World Research Experience in Sociology** - This "practicum" serves as a sort of capstone experience for sociology majors, providing an opportunity for hands on research experience. [*Syllabus*](../files/2024F_Socy561_syllabus.pdf): 2024F, 2025S.
