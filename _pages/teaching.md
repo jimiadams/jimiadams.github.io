@@ -56,8 +56,8 @@ _____
   
 #### Arizona State University
   - SOC/FAS 598, **Social Network Methods in Health Research** - This may be my favorite course I've had the chance to teach. A number of our students needed a course that combined methods & a "topical" elective in one. So I pulled this together to take a project-focused survey of research design approaches taken in the field. It later ended up serving as the backbone of the approach I took in my SAGE book. [*Syllabus*](../files/2012S_SOC598_syllabus.pdf): 2012S.
-  - Soc 585, **Sociological Theory** - A bit last minute, I ended up covering our graduate theory seminar. So, we ended up drawing heavily on a set of readers with excerpts from primary sources. [*Syllabus*](../files/2011S_SOC585_syllabus): 2011S
-  
+  - Soc 585, **Sociological Theory** - A bit last minute, I ended up covering our graduate theory seminar. So, we ended up drawing heavily on a set of readers with excerpts from primary sources. [*Syllabus*](../files/2011S_SOC585_syllabus.pdf): 2011S
+
 _____
 ### Workshops
 #### Social Network Analysis
