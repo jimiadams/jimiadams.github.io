@@ -67,7 +67,7 @@ _____
   - **UT-MB** - I conducted a 2-day version (no labs) of these workshops for the department of Preventative Medicine & Community Health at University of Texas, Medical Branch.
   
 _____
-While these courses represent some of my teaching interests, further course topics i am interested in include: data visualization, Organizations, Sociology of Religion, global HIV/AIDS, and likely a few others I'm not thinking of *as courses* at the moment. If you are a student interested in these topics, or an instructor who may want to explore collaborative teaching, let me know.
+I tend to get bored teaching classes on repeat, so often vary what I cover. As such, even while the above includes a pretty wide range, I've also pondered possible courses in: sociology of religion, global HIV/AIDS, scientific writing and/or computing, and likely a few others I'm not thinking of *as courses* at the moment. If you are a student interested in any of these topics, or an instructor who may want to explore collaborative teaching, let me know.
 
 _____
 ### Related Publications
