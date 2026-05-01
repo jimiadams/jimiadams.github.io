@@ -8,9 +8,10 @@ For office hours, or to sign up for an appointment, please use my [Calendly](htt
 ( skip to: [undergraduate](#undergraduate) | [graduate](#graduate) | [workshops](#workshops) | [publications](#related-publications) )
 
 ### Current Courses
-(spring 2026)
-  - SOCY 398H, **Diffusion: How things Spread** - We'll take a look at a variety of perspectives on how things spread - from diseases to (mis-)information; simple to complex. [*Syllabus*](../files/2026S_Socy398H_syllabus.pdf).
-  - SOCY 550, **Sociology of Science** - This seminar explores how scientists have studied themselves, to better understand why science works the way it does, is structured the way it is, and why those questions matter. [*Syllabus*](../files/2026S_Socy550_syllabus.pdf).
+(fall 2026)
+  - SOCY 711, **Sociological Theory** - I haven't gotten to teach *sociological* theory in a long time; looking forward the chance again (syllabus being overhauled).
+  - SOCY 732, **Social Network Analysis** - While I have done workshop versions of this regularly, I also haven't gotten to teach SNA @ my university in a decade (syllabus being overhauled).
+
 
 ### Previous Courses
 _____
@@ -18,7 +19,8 @@ _____
 #### South Carolina
   - SOCY 308, **Social Organization** - This course addressed how organizations have been studied, focusing on theories of their formal and informal structure. [*Syllabus*](../files/2025_Soc308_syllabus.pdf): 2025F.
   - SOCY 360, **Sociology of Medicine & Health** - This elective addressed structural dimensions of health and health care, with a focus on barriers to health equity. [*Syllabus*](../files/2024_Socy360_syllabus.pdf): 2024S.
-  - SOCY 398H, **Diffusion: How things Spread** - This seminar was a more sociological update on my previous social epidemiology version of examining contagion and diffusion processes. [*Syllabus*](../files/2024_Socy398_syllabus.pdf): 2024S.
+  - SOCY 398H, **Diffusion: How things Spread** - We explored a variety of perspectives on how things spread - from diseases to (mis-)information; simple to complex. [*Syllabus*](../files/2026S_Socy398H_syllabus.pdf): 2024S, 2026S.
+  - SOCY 550, **Sociology of Science** - This seminar examined how scientists have studied themselves, to better understand why science works the way it does, is structured the way it is, and why those questions matter. [*Syllabus*](../files/2026S_Socy550_syllabus.pdf): 2026S.
   - SOCY 561, **Real World Research Experience in Sociology** - This "practicum" serves as a sort of capstone experience for sociology majors, providing an opportunity for hands on research experience. [*Syllabus*](../files/2024F_Socy561_syllabus.pdf): 2024F, 2025S.
 
 
