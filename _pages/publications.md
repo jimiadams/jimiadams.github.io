@@ -12,7 +12,7 @@ This is an incomplete sample of recent and/or key papers of mine. For a complete
 
 | <!-- -->    | <!-- --> |
 | :-: | :------------ |
-|![](../images/ns.jpg){: width="75px" align="left"} | 2026. Francisca Ortiz Ruiz, Jennifer Watling Neal, Jose Luis Molina, Paola Tubaro, Raffaele Vacca, Jana Diesner, **jimi adams**, Michelle Anne Birkett, Jenny Godley, Laura Koehly, Juniper L. Lovato, Michael Schönhuth, Laura Teves, & Michael Zimmer. “[Recommendations for conducting ethical network research]().” *Network Science* <br> 
+|![](../images/ns.jpg){: width="75px" align="left"} | *forthcoming*. Francisca Ortiz Ruiz, Jennifer Watling Neal, Jose Luis Molina, Paola Tubaro, Raffaele Vacca, Jana Diesner, **jimi adams**, Michelle Anne Birkett, Jenny Godley, Laura Koehly, Juniper L. Lovato, Michael Schönhuth, Laura Teves, & Michael Zimmer. “[Recommendations for conducting ethical network research]().” *Network Science* <br> 
 [doi](){: .btn .btn--inverse .btn--small}
 [site](https://network-ethics.github.io){: .btn .btn--warning .btn--small}||
 |![](../images/Wiley.png){: width="75px" align="left"} | 2026. Andrea Vest Ettekal & **jimi adams**. “[Applications of Social Network Analysis in Developmental Science](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4231406).” Chapter 23 in Teti, Cleveland, & Rullison (eds.) *Handbook of Research Methods in Developmental Science*, 2nd Edition. Wiley. <br>  [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4231406){: .btn .btn--success .btn--small} [book](https://www.wiley.com/en-cn/Handbook+of+Research+Methods+in+Developmental+Science%2C+2nd+Edition-p-9781119880820){: .btn .btn--info .btn--small} [doi](https://dx.doi.org/10.2139/ssrn.4231406){: .btn .btn--inverse .btn--small}||
