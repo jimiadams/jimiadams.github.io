@@ -10,7 +10,7 @@ For office hours, or to sign up for an appointment, please use my [Calendly](htt
 ### Current Courses
 (fall 2026)
   - SOCY 711, **Sociological Theory** - I haven't gotten to teach *sociological* theory in a long time; looking forward the chance again (syllabus being overhauled).
-  - SOCY 732, **Social Network Analysis** - While I have done workshop versions of this regularly, I also haven't gotten to teach SNA @ my university in a decade (syllabus being overhauled).
+  - SOCY 732, **Social Network Analysis** - While I have done workshop versions of this regularly, I also haven't gotten to teach SNA @ my university in a decade ([DRAFT syllabus](../files/DRAFT-SNA_syllabus.pdf)).
 
 
 ### Previous Courses
