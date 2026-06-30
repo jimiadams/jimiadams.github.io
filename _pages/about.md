@@ -10,7 +10,8 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
-  - **June, 2026**: I'm presenting at [Sunbelt](https://www.insna.org/events/sunbelt-2026---daytona-beach) for the first time in a few years, but I'm only going to join virtually. I'm looking forward to sharing that paper with people!
+  - **July, 2026**: In an effort to support network researchers, our ethics initiative has published a new [article](https://doi.org/10.1017/nws.2026.10034) (& "[executive summary](https://network-ethics.github.io/assets/images/ExecSummary.pdf)") distilling the field's best practices.
+  - **June, 2026**: I presented at [Sunbelt](https://www.insna.org/events/sunbelt-2026---daytona-beach) for the first time in a few years, but I'm only going to join virtually. I'm looking forward to sharing that paper with people!
   - **May, 2026**: I contributed to workshops, separately at the Duke [Network Analysis Center](https://sites.duke.edu/dnac/) & the [Coalesce Lab](https://coalesce-lab.com/en/).
   - **Mar 14, 2026**: A preprint version is on [medRxiv](https://www.medrxiv.org/content/10.64898/2026.03.12.26348258v1) from the Colorado covid-19 modeling team that documents the *expected* crossover of transmission sources in the context of wide-spread vaccination.
   - **Nov 14, 2025**: I gave a [talk](https://www.cpc.unc.edu/event/interdisciplinary-research-seminar-series-jimi-adams/) at the Carolina Population Center at UNC-Chapel Hill, from a joint project with Molly Copeland & Chris Marcum (on teens avoiding dating their friends' exes) that I'm attempting to revive.

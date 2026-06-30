@@ -16,6 +16,7 @@ One of my favorite previous projects in this vein outside of data collection/eva
 ______
 **Related publications**:
 
+  - Ortiz Ruiz, F., Tubaro, P., Molina, J.L., Neal, J.W., Vacca, R., Diesner, J., **jimi adams**, Birkett, M.A., Godley, J., Koehly, L., Lovato, J.L. and Schönhuth, M. 2026. "Recommendations for conducting ethical network research." *Network Science* doi: 10.1017/nws.2026.10034.
   - Dana K Pasquale, Tom Wolff, Gabriel Varela, **jimi adams**, Peter Mucha, Brea L Perry, Thomas W. Valente, & James Moody. 2025. "[Considerations for Health and Social Networks Data Sharing: An Overview.](https://www.sciencedirect.com/science/article/pii/S1047279724002862)" *Annals of Epidemiology* 102: 28-35.
   - +Kate Vinita Fitch, Molly Copeland, & **jimi adams**‡. 2024. “[What Predicts Romantic
 Tie Reciprocation among a Sample of Adolescents?](https://www.sciencedirect.com/science/article/pii/S0378873323000667?via%3Dihub)” *Social Networks* 76: 203-208.
