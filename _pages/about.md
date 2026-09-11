@@ -10,6 +10,7 @@ redirect_from:
 
 recent updates & upcoming talks
 ------
+  - **Oct 2, 2026**: In building some momentum in ongoing efforts to revive our dormant book project, I'm giving [a talk](https://liberalarts.utexas.edu/prc/events/texas-social-science-research-hub-talk-jimi-adams) at the PRC at the University of Texas.
   - **July, 2026**: In an effort to support network researchers, our ethics initiative has published a new [article](https://doi.org/10.1017/nws.2026.10034) (& "[executive summary](https://network-ethics.github.io/assets/images/ExecSummary.pdf)") distilling the field's best practices.
   - **June, 2026**: I presented at [Sunbelt](https://www.insna.org/events/sunbelt-2026---daytona-beach) for the first time in a few years, on a new idea about making network visualizations more useful.
   - **May, 2026**: I contributed to workshops, separately at the Duke [Network Analysis Center](https://sites.duke.edu/dnac/) & the [Coalesce Lab](https://coalesce-lab.com/en/).
