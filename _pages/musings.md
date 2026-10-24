@@ -6,10 +6,17 @@ author_profile: true
 ---
 
 {% for post in site.posts %}
-### [{{ post.title }}]({{ post.url | relative_url }})
 
-{{ post.date | date: "%B %-d, %Y" }}
+<details>
+  <summary>
+    <strong>{{ post.title }}</strong>
+    — {{ post.date | date: "%B %-d, %Y" }}
+  </summary>
 
-{{ post.excerpt }}
+  {{ post.content }}
+
+</details>
+
+<hr>
 
 {% endfor %}
