@@ -4,6 +4,7 @@ title: "musings"
 permalink: /musings/
 author_profile: true
 ---
+\footnotesize a place to gather some less formal "ideas in process" writings.
 
 {% for post in site.posts %}
 
