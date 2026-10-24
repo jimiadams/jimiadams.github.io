@@ -4,13 +4,14 @@ title: "musings"
 permalink: /musings/
 author_profile: true
 ---
-\footnotesize a place to gather some less formal "ideas in process" writings.
+
+(a place to gather some less formal "ideas in process" writings)
 
 {% for post in site.posts %}
 
-### [{{ post.title }}]({{ post.url | relative_url }})
-
 {{ post.date | date: "%B %-d, %Y" }}
+
+### [{{ post.title }}]({{ post.url | relative_url }})
 
 {{ post.excerpt }}
 
