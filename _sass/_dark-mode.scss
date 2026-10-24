@@ -96,3 +96,13 @@ html[data-theme="dark"] {
 html[data-theme="dark"] #theme-toggle {
   color: #e0e0e0;
 }
+
+/* Improve visibility of dark sidebar icons */
+
+html[data-theme="dark"] .author__urls .fa-map-marker,
+html[data-theme="dark"] .author__urls .fa-map-marker-alt,
+html[data-theme="dark"] .author__urls .fa-building,
+html[data-theme="dark"] .author__urls .fa-university,
+html[data-theme="dark"] .author__urls .fa-github {
+  color: #bdbdbd !important;
+}
