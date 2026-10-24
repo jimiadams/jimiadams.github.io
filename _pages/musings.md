@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /musings/
-author_profile: false
+author_profile: true
 ---
 
 (a place to gather some less formal "ideas in process" writings)
