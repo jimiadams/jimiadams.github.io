@@ -58,30 +58,24 @@ html[data-theme="dark"] {
   }
 }
 
-/* Keep the theme toggle outside greedy-nav overflow */
+/* Theme toggle integrated into navigation */
 
-.greedy-nav {
+.greedy-nav .theme-toggle-item {
   display: flex;
   align-items: center;
-  flex-wrap: nowrap;
-}
-
-.greedy-nav .visible-links {
-  min-width: 0;
 }
 
 .greedy-nav #theme-toggle {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  position: relative;
-  flex: 0 0 40px;
-  width: 40px;
-  height: 40px;
+  position: static;
+  width: 36px;
+  height: 36px;
   padding: 0;
-  margin: 0 0 0 auto;
+  margin: 0 0 0 8px;
   background: transparent;
-  border: none;
+  border: 0;
   box-shadow: none;
   color: inherit;
   font-size: 22px;
