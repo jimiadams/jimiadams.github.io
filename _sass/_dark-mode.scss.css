@@ -1,0 +1,59 @@
+/* Dark mode — site-wide color overrides */
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+
+  body,
+  .initial-content,
+  #main,
+  .page,
+  .archive {
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+  }
+
+  a {
+    color: #80caff;
+  }
+
+  a:hover {
+    color: #b3dfff;
+  }
+
+  .masthead,
+  .greedy-nav,
+  .page__footer {
+    background-color: #252525;
+    color: #e0e0e0;
+  }
+
+  .masthead a,
+  .greedy-nav a {
+    color: #e0e0e0;
+  }
+
+  h1, h2, h3, h4, h5, h6,
+  .page__title {
+    color: #f0f0f0;
+  }
+
+  .sidebar,
+  .author__content,
+  .page__meta {
+    color: #bdbdbd;
+  }
+
+  pre, code {
+    background-color: #303030;
+    color: #e0e0e0;
+  }
+
+  blockquote {
+    border-left-color: #666;
+    color: #c0c0c0;
+  }
+
+  hr {
+    border-color: #444;
+  }
+}
