@@ -60,25 +60,39 @@ html[data-theme="dark"] {
 
 /* Theme toggle integrated into navigation */
 
-.greedy-nav .theme-toggle-item {
+/* Independent theme toggle beside navigation */
+
+.masthead__menu.theme-header {
   display: flex;
   align-items: center;
+  flex-wrap: nowrap;
+  gap: 12px;
 }
 
-.greedy-nav #theme-toggle {
+.masthead__menu.theme-header .greedy-nav {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.masthead__menu.theme-header #theme-toggle {
+  position: static;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  position: static;
-  width: 36px;
-  height: 36px;
+  flex: 0 0 40px;
+  width: 40px;
+  height: 40px;
   padding: 0;
-  margin: 0 0 0 8px;
+  margin: 0;
   background: transparent;
-  border: 0;
+  border: none;
   box-shadow: none;
   color: inherit;
   font-size: 22px;
   line-height: 1;
   cursor: pointer;
+}
+
+html[data-theme="dark"] #theme-toggle {
+  color: #e0e0e0;
 }

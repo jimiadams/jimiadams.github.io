@@ -2,9 +2,11 @@
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
+    <div class="masthead__menu theme-header">
+
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
+
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg">
             <a href="{{ base_path }}/">{{ site.title }}</a>
@@ -16,23 +18,23 @@
             {% else %}
               {% assign domain = base_path %}
             {% endif %}
+
             <li class="masthead__menu-item">
               <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
-
-          <li class="masthead__menu-item theme-toggle-item">
-            <button
-              type="button"
-              id="theme-toggle"
-              aria-label="Toggle dark mode"
-              aria-pressed="false"
-              title="Toggle dark mode">☾</button>
-          </li>
         </ul>
 
         <ul class="hidden-links hidden"></ul>
       </nav>
+
+      <button
+        type="button"
+        id="theme-toggle"
+        aria-label="Toggle dark mode"
+        aria-pressed="false"
+        title="Toggle dark mode">☾</button>
+
     </div>
   </div>
 </div>
