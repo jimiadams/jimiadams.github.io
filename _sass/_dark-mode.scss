@@ -58,23 +58,27 @@ html[data-theme="dark"] {
   }
 }
 
-/* Make the theme toggle visible in the navigation */
+/* Theme toggle integrated into navigation */
+
+.greedy-nav .theme-toggle-item {
+  display: flex;
+  align-items: center;
+}
 
 .greedy-nav #theme-toggle {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  position: relative;
-  visibility: visible;
-  opacity: 1;
-  width: 40px;
-  height: 40px;
+  position: static;
+  width: 36px;
+  height: 36px;
   padding: 0;
-  margin-left: 10px;
+  margin: 0 0 0 8px;
   background: transparent;
-  border: none;
+  border: 0;
+  box-shadow: none;
   color: inherit;
-  font-size: 24px;
+  font-size: 22px;
+  line-height: 1;
   cursor: pointer;
-  flex-shrink: 0;
 }
