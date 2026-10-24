@@ -5,10 +5,13 @@ tags:
   - writing
 ---
 
-![](/images/hw.png)
-
 I had a regular blogging habit for well over a decade. 
 It was incredibly helpful to my engaging writing as a practice, not just a product.
+
+<!--more-->
+
+![](/images/hw.png)
+
 So, I'm trying to make that part of my regular activities again.
 This is one of the places I intend to re-engage that form of writing.
 
