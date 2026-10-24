@@ -7,12 +7,11 @@ author_profile: true
 
 (a place to gather some less formal "ideas in process" writings)
 
+<hr>
 {% for post in site.posts %}
 
 {{ post.date | date: "%B %-d, %Y" }}
-
 ### [{{ post.title }}]({{ post.url | relative_url }})
-
 {{ post.excerpt }}
 
 {% assign remainder = post.content | remove_first: post.excerpt %}
