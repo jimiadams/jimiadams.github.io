@@ -6,6 +6,48 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+<style>
+/* Publications page only: keep thumbnails and buttons, remove table layout */
+.publication-list {
+  width: 100%;
+  border: 0;
+  border-collapse: collapse;
+  font-size: 1rem;
+}
+.publication-list thead { display: none; }
+.publication-list tbody { display: block; width: 100%; }
+.publication-list tr {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 1.25rem 0;
+  border-bottom: 1px solid #ddd;
+}
+.publication-list td {
+  display: block;
+  border: 0;
+  padding: 0;
+  vertical-align: top;
+}
+.publication-list td:first-child { flex: 0 0 75px; }
+.publication-list td:last-child { flex: 1 1 auto; min-width: 0; }
+.publication-list td:first-child img {
+  display: block;
+  width: 75px;
+  max-width: 100%;
+  height: auto;
+  float: none;
+}
+.publication-list .btn { margin-top: .4rem; margin-right: .25rem; }
+html[data-theme="dark"] .publication-list tr { border-bottom-color: #444; }
+@media (max-width: 600px) {
+  .publication-list tr { gap: 12px; }
+  .publication-list td:first-child { flex-basis: 55px; }
+  .publication-list td:first-child img { width: 55px; }
+}
+</style>
+
 This is an incomplete sample of recent and/or key papers of mine. For a complete list, see my [CV](/cv/) or [Google Scholar page](https://scholar.google.com/citations?user=G-u6TvEAAAAJ). If you have difficulty locating a complete version of any of these, please email me for a copy. (+ notes mentored student)
 
 <!-- button order: data, code, preprint, book, doi, misc -->
@@ -36,3 +78,4 @@ This is an incomplete sample of recent and/or key papers of mine. For a complete
 |![](../images/dr.jpg){: width="75px" align="left"} | 2009. **jimi adams** & Jenny Trinitapoli. “[The Malawi Religion Project: Data collection and selected analyses](https://www.demographic-research.org/volumes/vol21/10/21-10.pdf).” *Demographic Research* 21(10): 255-288. <br> [doi](https://doi.org/10.4054/DemRes.2009.21.10){: .btn .btn--inverse .btn--small}|
 |![](../images/gs.png){: width="75px" align="left"} | 2007. **jimi adams**. “[Stained Glass Makes the Ceiling Visible: Organizational Opposition to Women in Congregational Leadership](../files/2007_G&S.pdf).” *Gender & Society* 21(1): 80-105. <br> [data](https://www.thearda.com/Archive/Files/Descriptions/NCSIV.asp){: .btn .btn--danger .btn--small} [doi](https://doi.org/10.1177/0891243206293773){: .btn .btn--inverse .btn--small}|
 |![](../images/snf.jpg){: width="75px" align="left"} | 2007. **jimi adams** & James Moody. “[To tell the truth: Measuring concordance in multiply reported network data](../files/2007_SN.pdf).” *Social Networks* 29(1): 44-58. <br> [data](https://www.icpsr.umich.edu/web/NAHDAP/studies/22140){: .btn .btn--danger .btn--small} [doi](https://doi.org/10.1016/j.socnet.2005.11.009){: .btn .btn--inverse .btn--small} <br> And just for kicks - this first publication gave me an [Erdős number](http://en.wikipedia.org/wiki/Erd%C5%91s_number) of 4: [Erdős](http://en.wikipedia.org/wiki/Paul_Erd%C5%91s) [--](http://www.sciencedirect.com/science/article/pii/S0167506008706988) [Frank Harary](http://www.cs.nmsu.edu/fnh/) [--](https://escholarship.org/content/qt8585j6z4/qt8585j6z4.pdf) [Douglas R. White](https://en.wikipedia.org/wiki/Douglas_R._White) [--](https://www.jstor.org/stable/3088904?seq=1#metadata_info_tab_contents) [James Moody](https://scholars.duke.edu/person/james.moody) -- me. What's [yours](http://www.oakland.edu/enp/compute/)?|
+{: .publication-list }
