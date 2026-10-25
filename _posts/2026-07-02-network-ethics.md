@@ -6,6 +6,8 @@ categories:
 tags:
   - ethics
   - publication
+  - INSNA
+  - NetSci
 ---
 
 New resource - [article](https://www.cambridge.org/core/journals/network-science/article/recommendations-for-conducting-ethical-network-research/446960DC913205C5B16DE5BFF7931A50) and accompanying [site](https://network-ethics.github.io) that I contributed to. The site includes an executive summary intended for sharing with IRBs for facilitating networks research. 

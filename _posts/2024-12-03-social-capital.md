@@ -1,6 +1,8 @@
 ---
 title: "unifying social capital"
 date: "2024-12-03"
+categories:
+  - student collabs
 tags:
   - social capital
   - publication

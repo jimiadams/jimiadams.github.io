@@ -17,3 +17,5 @@ This is one of the places I intend to re-engage that form of writing.
 
 Who knows, occasionally some of this might be useful for things beyond trying to help me improve my own writing. 
 But for now, it's at least a renewed commitment to that.
+
+For now, I'm populating this page with some old social media threads announcing a few papers.
