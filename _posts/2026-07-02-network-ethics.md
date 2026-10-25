@@ -14,7 +14,7 @@ I'm super excited to have this out. The team was great to work with!
 
 <!--more-->
 
-![](/images/sketch.png)
+<img src="/images/sketch.png" width="200">
 
 Now a bit of (self-indulgent?) back story. In my little green book's section on ethics, I mused that maybe someday, *someone* could help consolidate the seeming wild west of ethical approaches to network research that exist in the field. 
 
