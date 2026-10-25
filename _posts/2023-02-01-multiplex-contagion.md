@@ -1,6 +1,6 @@
 ---
 title: "multiplex contagion"
-date: "2023-02-01"
+date: "2023-Feb-01"
 categories:
   - SNA
   - student collabs

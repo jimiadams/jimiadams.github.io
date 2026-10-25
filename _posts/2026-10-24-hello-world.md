@@ -1,6 +1,6 @@
 ---
 title: "a fresh restart"
-date: 2026-10-24
+date: 2026-Oct-24
 tags:
   - writing
 ---
