@@ -13,7 +13,7 @@ _____
 
 With [Ryan Light](https://sociology.uoregon.edu/profile/light/), I am examining patterns of disciplinary integration in "problem" oriented areas of science. My primary sabbatical project is working on a book manuscript from this work.
 
-(This work has previously been funded in part by the Robert Wood Johnson Foundation's [Health and Society Scholars Program](http://www.healthandsocietyscholars.org/) at Columbia University.)
+(This work has previously been funded in part by the Robert Wood Johnson Foundation's [Health and Society Scholars Program](https://youtu.be/ZtJqJ674WEE?si=TUur64nluiV94JPg) at Columbia University.)
 
 <div style="clear:both;"></div>
 _____
